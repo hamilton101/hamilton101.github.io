@@ -1,0 +1,8 @@
+---
+title: Welcome to Lab
+tags: news, welcome
+author: Matthew Hamilton
+member: upton-goode
+---
+
+Website up and running. Welcome to VACL@MUN.
