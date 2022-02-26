@@ -1,21 +1,26 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
+title: Visual and Analytic Computing Lab @ MUN
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
+
+#logo: images/vaclogo.png
+logo: images/logo-wl.png
+#logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: ~mhamilton/lab
+#baseurl: /lab-website-template
+
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: mhamilton@mun.ca
+  google-scholar: Matthew Hamilton
+  github: hamiltonmj
+#  twitter: YourLabHandle
+# instagram: YourLabHandle
+#  youtube: YourLabChannel
 
 ### advanced settings
 

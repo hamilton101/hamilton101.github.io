@@ -7,10 +7,6 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 {% include section.html %}
 
@@ -30,32 +26,48 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
+  filters="role: msc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: programmer"
 %}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are a dynamic, interdisciplinary team focused on applying visual and analytic computing across a wide range of areas of study. Our projects produce
+tangible results which have an impact on exciting and important applications.
 
 {% include section.html %}
 
-## Join
+## Join Our Group 
 
-#### Post Dogtoral Researcher
+#### PhD and MSc Positions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have openings for PhD and MSc positions in the lab [focus areas](../research/). Please [Contact Us](../contact/) and include a CV. 
+Interested applicants must also follow and successfully complete the formal Computer Science graduate program admission procedures at MUN.
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+#### Undergraduate 
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+Undergraduate students interested in working in the lab [focus areas](../research/) should also contact us. There are a number possible options including:
+
+- Honor thesis projects
+- Full-time or part-time employment
+- [NSERC USRA or SURA Research Awards](https://www.mun.ca/science/undergraduates/how-to-apply-for-usra-and-sura-awards/)
+
+Please [Contact Us](../contact/) if you are interested.
+
+
+{% include link.html type="external" link="mailto:mhamilton@mun.ca" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
 
+
+<!--
 ## Funding
 
 Our work is made possible by funding from several organizations.
@@ -89,3 +101,4 @@ Our work is made possible by funding from several organizations.
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
 %}
+-->

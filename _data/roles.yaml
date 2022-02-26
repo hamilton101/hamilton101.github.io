@@ -6,6 +6,10 @@ postdoc:
   icon: fas fa-glasses
   text: Postdoctoral Researcher
 
+msc:
+  icon: fas fa-graduation-cap
+  text: MSc Student
+ 
 phd:
   icon: fas fa-graduation-cap
   text: PhD Student
