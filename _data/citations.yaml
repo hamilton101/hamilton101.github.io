@@ -21,3 +21,16 @@
   date: 1900-1-1
   link: https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  name: Holographic Displays
+- id: doi:10.4043/27392-MS
+  title: Integrated Design and Analysis for Virtual Arctic Simulation Environment
+  authors:
+  - Matthew Hamilton
+  - Aaron Maynard
+  - Muhammad Jujuly
+  - Ibraheem Adeoti
+  - Aziz Rahman
+  - Matthew Adey
+  publisher: All Days
+  date: '2016-10-24'
+  link: https://doi.org/gpjzz4
