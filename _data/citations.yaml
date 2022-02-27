@@ -7,6 +7,13 @@
     Research at IEEE Visualization 2021 Conference.'
   date: 1900-1-1
   link: https://www.cs.mun.ca/~mhamilton/papers/Hamilton.pdf
+- id: url:https://www.cs.mun.ca/~mhamilton/papers/nwells-hamilton-Necec2021.pdf
+  title: Towards Immersive Cinematic Video for Immersive Displays
+  authors: []
+  publisher: The 30th Newfoundland Electrical and Computer Engineering Conference
+    (NECEC), St. John's, Canada.
+  date: 1900-1-1
+  link: https://www.cs.mun.ca/~mhamilton/papers/nwells-hamilton-Necec2021.pdf
 - id: doi:10.1371/journal.pcbi.1007128
   title: Towards Immersive Cinematic Video for Immersive Displays
   authors:
@@ -19,7 +26,7 @@
   - Anthony Gitter
   publisher: The 30th Newfoundland Electrical and Computer Engineering Conference
     (NECEC), St. John's, Canada.
-  date: 1900-1-1
+  date: '1900-01-01'
   link: https://doi.org/c7np
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   repo: greenelab/meta-review
