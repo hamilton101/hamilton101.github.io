@@ -15,10 +15,10 @@
   tags:
   - knowledge graphs
 - id: url:https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf
-  title: Holographic Displays
+  title: 'Holographic Displays: Emerging Technologies and Use Cases in Defence Applications'
   authors: []
-  publisher: ''
-  date: '2021-11-05'
+  publisher: NATO MSG-159 2018 Annual M&S Conference.
+  date: '2018-11-01'
   link: https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   name: Holographic Displays
@@ -31,6 +31,26 @@
   - Ibraheem Adeoti
   - Aziz Rahman
   - Matthew Adey
-  publisher: OTC Arctic Technology Conference
+  publisher: OTC Arctic Technology Conference, St. John's, Canada, October 2016.
   date: '2016-10-24'
   link: https://doi.org/gpjzz4
+- id: doi:10.1002/sdtp.12268
+  title: 'P-91: Light Field Display Simulator for Experience and Quality Evaluation'
+  authors:
+  - Matthew Hamilton
+  - Chuck Rumbolt
+  - Thomas Butyn
+  - Donovan Benoit
+  - Robert Lockyer
+  - Matthew Troke
+  publisher: SID Symposium Digest of Technical Papers
+  date: '2018-05-01'
+  link: https://doi.org/gpj3fh
+- id: doi:10.4043/25525-MS
+  title: Virtual Arctic Simulation Environment
+  authors:
+  - Matthew Hamilton
+  - Stephen Dodd
+  publisher: OTC Arctic Technology Conference, Copenhagen, Denmark, March 2015.
+  date: '2015-03-23'
+  link: https://doi.org/gpj3fj
