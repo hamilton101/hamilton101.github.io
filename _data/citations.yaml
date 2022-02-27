@@ -1,19 +1,19 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
+- id: url:https://www.cs.mun.ca/~mhamilton/papers/Hamilton.pdf
+  title: 'Visualization Using Field of Light Displays: Opportunities and New Questions'
+  authors: []
+  publisher: 'VisXVision: Workshop on Novel Directions in Vision Science and Visualization
+    Research at IEEE Visualization 2021 Conference.'
+  date: 1900-1-1
+  link: https://www.cs.mun.ca/~mhamilton/papers/Hamilton.pdf
+- id: url:https://www.cs.mun.ca/~mhamilton/papers/nwells-hamilton-Necec2021.pdf
+  title: Towards Immersive Cinematic Video for Immersive Displays
+  authors: []
+  publisher: The 30th Newfoundland Electrical and Computer Engineering Conference
+    (NECEC), St. John's, Canada.
+  date: 1900-1-1
+  link: https://www.cs.mun.ca/~mhamilton/papers/nwells-hamilton-Necec2021.pdf
 - id: url:https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf
   title: 'Holographic Displays: Emerging Technologies and Use Cases in Defence Applications'
   authors: []
