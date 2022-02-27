@@ -7,21 +7,8 @@
   date: 2021-11-18
   title: 'Towards Immersive Cinematic Video for Immersive Displays'
   publisher: The 30th Newfoundland Electrical and Computer Engineering Conference (NECEC), St. John's, Canada.
-  publisher: The 30th Newfoundland Electrical and Computer Engineering Conference (NECEC), St. John's, Canada.
   
-  
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  
-    
+   
 - id: url:https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf
   date: 2018-11-1
   title: 'Holographic Displays: Emerging Technologies and Use Cases in Defence Applications'
