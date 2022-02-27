@@ -7,20 +7,36 @@
     Research at IEEE Visualization 2021 Conference.'
   date: 1900-1-1
   link: https://www.cs.mun.ca/~mhamilton/papers/Hamilton.pdf
-- id: url:https://www.cs.mun.ca/~mhamilton/papers/nwells-hamilton-Necec2021.pdf
+- id: doi:10.1371/journal.pcbi.1007128
   title: Towards Immersive Cinematic Video for Immersive Displays
-  authors: []
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
   publisher: The 30th Newfoundland Electrical and Computer Engineering Conference
     (NECEC), St. John's, Canada.
   date: 1900-1-1
-  link: https://www.cs.mun.ca/~mhamilton/papers/nwells-hamilton-Necec2021.pdf
+  link: https://doi.org/c7np
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  repo: greenelab/meta-review
+  extra-links:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
 - id: url:https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf
   title: 'Holographic Displays: Emerging Technologies and Use Cases in Defence Applications'
   authors: []
   publisher: NATO MSG-159 2018 Annual M&S Conference.
   date: '2018-11-01'
   link: https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: null
   name: Holographic Displays
 - id: doi:10.4043/27392-MS
   title: Integrated Design and Analysis for Virtual Arctic Simulation Environment
