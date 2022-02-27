@@ -1,13 +1,15 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-    - knowledge graphs
+- id: url:https://www.cs.mun.ca/~mhamilton/papers/Hamilton.pdf
+  title: 'Visualization Using Field of Light Displays: Opportunities and New Questions'
+  date: 2021-10-24
+  publisher: 'VisXVision: Workshop on Novel Directions in Vision Science and Visualization Research at IEEE Visualization 2021 Conference.'
+  
+  id: url:https://www.cs.mun.ca/~mhamilton/papers/nwells-hamilton-Necec2021.pdf
+  title: 'Towards Immersive Cinematic Video for Immersive Displays'
+  date: 2021-11-18
+  publisher: 'The 30th Newfoundland Electrical and Computer Engineering Conference (NECEC), St. John's, Canada.'
     
 - id: url:https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf
+  image: 
   date: 2018-11-1
   title: 'Holographic Displays: Emerging Technologies and Use Cases in Defence Applications'
   publisher: 'NATO MSG-159 2018 Annual M&S Conference.'
