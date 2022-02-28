@@ -34,6 +34,14 @@
   publisher: OTC Arctic Technology Conference, St. John's, Canada, October 2016.
   date: '2016-10-24'
   link: https://doi.org/gpjzz4
+- id: doi:10.4043/25525-MS
+  title: Virtual Arctic Simulation Environment
+  authors:
+  - Matthew Hamilton
+  - Stephen Dodd
+  publisher: OTC Arctic Technology Conference, Copenhagen, Denmark, March 2015.
+  date: '2015-03-23'
+  link: https://doi.org/gpj3fj
 - id: doi:10.1002/sdtp.12268
   title: 'P-91: Light Field Display Simulator for Experience and Quality Evaluation'
   authors:
@@ -46,14 +54,6 @@
   publisher: SID Symposium Digest of Technical Papers
   date: '2018-05-01'
   link: https://doi.org/gpj3fh
-- id: doi:10.4043/25525-MS
-  title: Virtual Arctic Simulation Environment
-  authors:
-  - Matthew Hamilton
-  - Stephen Dodd
-  publisher: OTC Arctic Technology Conference, Copenhagen, Denmark, March 2015.
-  date: '2015-03-23'
-  link: https://doi.org/gpj3fj
 - id: doi:10.1529/biophysj.107.116053
   title: Coarse-Grained Molecular Simulation of Diffusion and Reaction Kinetics in
     a Crowded Virtual Cytoplasm
