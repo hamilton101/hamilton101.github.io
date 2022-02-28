@@ -7,6 +7,7 @@
     Research at IEEE Visualization 2021 Conference.'
   date: '2021-10-24'
   link: https://www.cs.mun.ca/~mhamilton/papers/Hamilton.pdf
+  image: https://www.vaclab.ca/images/foldpaper.PNG
 - id: url:https://www.cs.mun.ca/~mhamilton/papers/nwells-hamilton-Necec2021.pdf
   title: Towards Immersive Cinematic Video for Immersive Displays
   authors: []
@@ -14,6 +15,7 @@
     (NECEC), St. John's, Canada.
   date: '2021-11-18'
   link: https://www.cs.mun.ca/~mhamilton/papers/nwells-hamilton-Necec2021.pdf
+  image: https://www.vaclab.ca/images/simpaper.PNG
 - id: url:https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf
   title: 'Holographic Displays: Emerging Technologies and Use Cases in Defence Applications'
   authors: []
@@ -34,6 +36,7 @@
   publisher: OTC Arctic Technology Conference, St. John's, Canada, October 2016.
   date: '2016-10-24'
   link: https://doi.org/gpjzz4
+  image: https://www.vaclab.ca/images/flowvasepaper.PNG
 - id: doi:10.4043/25525-MS
   title: Virtual Arctic Simulation Environment
   authors:
@@ -42,6 +45,7 @@
   publisher: OTC Arctic Technology Conference, Copenhagen, Denmark, March 2015.
   date: '2015-03-23'
   link: https://doi.org/gpj3fj
+  image: https://www.vaclab.ca/images/vasepaper.PNG
 - id: doi:10.1002/sdtp.12268
   title: 'P-91: Light Field Display Simulator for Experience and Quality Evaluation'
   authors:
@@ -54,6 +58,7 @@
   publisher: SID Symposium Digest of Technical Papers
   date: '2018-05-01'
   link: https://doi.org/gpj3fh
+  image: https://www.vaclab.ca/images/simpaper.PNG
 - id: doi:10.1529/biophysj.107.116053
   title: Coarse-Grained Molecular Simulation of Diffusion and Reaction Kinetics in
     a Crowded Virtual Cytoplasm
@@ -70,6 +75,7 @@
   publisher: Biophysical Journal
   date: '2008-05-01'
   link: https://doi.org/cxph92
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006349508703783-gr2.jpg
 - id: doi:10.1007/11847250_21
   title: The Parameterized Complexity of Enumerating Frequent Itemsets
   authors:
