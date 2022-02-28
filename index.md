@@ -136,6 +136,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a href="https://www.med.mun.ca/medicine/home.aspx"> <img src="images/medlogo.jpg" width="200"> </a>
 <a href="https://www.vardec.ca/"> <img src="images/vardeclogo.jpg" width="200"> </a>
 <a href="https://https://bounceinnovation.ca/"> <img src="images/ouncelogo.jpeg" width="200"> </a> <br>
+<img src="images/artinuslogo.jpg" width="200">
 <a href="https://spaces.facsci.ualberta.ca/ahci/news/media/"> AHCI Lab (University of Alberta, Computing Science) </a> <br>
 <a href="http://www.cs.mun.ca/~asoaresjunio/">  Mobility and Data Analytics Lab (Memorial University, Computer Science)</a>
 
