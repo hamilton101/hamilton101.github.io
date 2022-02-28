@@ -1,9 +1,11 @@
 - id: url:https://www.cs.mun.ca/~mhamilton/papers/Hamilton.pdf
+  image: https://www.vaclab.ca/images/foldpaper.PNG
   date: '2021-10-24'
   title: 'Visualization Using Field of Light Displays: Opportunities and New Questions'
   publisher: 'VisXVision: Workshop on Novel Directions in Vision Science and Visualization Research at IEEE Visualization 2021 Conference.'
   
 - id: url:https://www.cs.mun.ca/~mhamilton/papers/nwells-hamilton-Necec2021.pdf
+  image: https://www.vaclab.ca/images/simpaper.PNG
   date: '2021-11-18'
   title: Towards Immersive Cinematic Video for Immersive Displays
   publisher: The 30th Newfoundland Electrical and Computer Engineering Conference (NECEC), St. John's, Canada.
@@ -17,14 +19,18 @@
 
 - id: doi:10.4043/27392-MS
   publisher: OTC Arctic Technology Conference, St. John's, Canada, October 2016.
+  image: https://www.vaclab.ca/images/flowvasepaper.PNG
 
 - id: doi:10.4043/25525-MS
   publisher: OTC Arctic Technology Conference, Copenhagen, Denmark, March 2015.
+  image: https://www.vaclab.ca/images/vasepaper.PNG
   
   
-- id: doi:10.1002/sdtp.12268  
+- id: doi:10.1002/sdtp.12268
+  image: https://www.vaclab.ca/images/simpaper.PNG  
   
 - id: doi:10.1529/biophysj.107.116053
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006349508703783-gr2.jpg
   
 - id: doi:10.1007/11847250_21
   
