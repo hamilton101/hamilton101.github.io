@@ -46,6 +46,39 @@
   publisher: SID Symposium Digest of Technical Papers
   date: '2018-05-01'
   link: https://doi.org/gpj3fh
+- id: doi:10.4043/25525-MS
+  title: Virtual Arctic Simulation Environment
+  authors:
+  - Matthew Hamilton
+  - Stephen Dodd
+  publisher: OTC Arctic Technology Conference, Copenhagen, Denmark, March 2015.
+  date: '2015-03-23'
+  link: https://doi.org/gpj3fj
+- id: doi:10.1529/biophysj.107.116053
+  title: Coarse-Grained Molecular Simulation of Diffusion and Reaction Kinetics in
+    a Crowded Virtual Cytoplasm
+  authors:
+  - Douglas Ridgway
+  - Gordon Broderick
+  - Ana Lopez-Campistrous
+  - "Melania Ru\u2019aini"
+  - Philip Winter
+  - Matthew Hamilton
+  - Pierre Boulanger
+  - Andriy Kovalenko
+  - Michael J. Ellison
+  publisher: Biophysical Journal
+  date: '2008-05-01'
+  link: https://doi.org/cxph92
+- id: doi:10.1007/11847250_21
+  title: The Parameterized Complexity of Enumerating Frequent Itemsets
+  authors:
+  - Matthew Hamilton
+  - Rhonda Chaytor
+  - Todd Wareham
+  publisher: Parameterized and Exact Computation
+  date: '2006-01-01'
+  link: https://doi.org/dg9shf
 - id: doi:10.4230/DagSemProc.07281.3
   title: Approximating Solution Structure
   authors:
