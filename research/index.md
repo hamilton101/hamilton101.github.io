@@ -14,6 +14,10 @@ The Visual and Analytic Computing Lab focuses on the following areas:
 - Computer Graphics
 - Computer Vision
 - Holographic displays
+	* rendering for light field displays
+	* display simulation
+	* codecs for immersive video
+	* video 
 - Augmented/Virtual/Extended Reality(AR/VR/XR) 
 
 
