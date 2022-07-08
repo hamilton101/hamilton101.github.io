@@ -1,6 +1,6 @@
 ---
-name: Karandeep Dhillon
-image: images/karan.png
+name: Caitlin Piercey
+image: images/member.jpg
 description: MSc Student, Computer Science
 role: msc
 group: alum
