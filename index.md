@@ -139,6 +139,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a href="https://https://bounceinnovation.ca/"> <img src="images/artinuslogo.jpg" width="200"> </a>
 <br>
 <a href="https://spaces.facsci.ualberta.ca/ahci/news/media/"> AHCI Lab (University of Alberta, Computing Science) </a> <br>
-<a href="http://www.cs.mun.ca/~asoaresjunio/">  Mobility and Data Analytics Lab (Memorial University, Computer Science)</a>
+<a href="http://www.cs.mun.ca/~asoaresjunio/">  Mobility and Data Analytics Lab (Memorial University, Computer Science)</a><br>
+<a href="https://www.drazizrahman.com/"> Advance Multiphase Flow Assurance and Production Laboratory (AMFAPL) (Texas A&M University, Qatar) </a>
 
 
