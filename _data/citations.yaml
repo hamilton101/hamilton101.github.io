@@ -1,12 +1,19 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: url:https://doi.org/10.1016/j.psep.2024.01.007
+- id: doi:10.1016/j.psep.2024.01.007
   title: Performance analysis of various machine learning algorithms for CO2 leak
     prediction and characterization in geo-sequestration injection wells
-  authors: []
+  authors:
+  - Saeed Harati
+  - Sina Rezaei Gomari
+  - Mohammad Azizur Rahman
+  - Rashid Hassan
+  - Ibrahim Hassan
+  - Ahmad K. Sleiti
+  - Matthew Hamilton
   publisher: Process Safety and Environmental Protection
   date: '2023-10-01'
-  link: https://doi.org/10.1016/j.psep.2024.01.007
+  link: https://doi.org/gtjzhh
   image: null
 - id: doi:10.1097/HP.0000000000001732
   title: Response to McCollough et al.
@@ -17,18 +24,32 @@
   date: '2023-10-01'
   link: https://doi.org/gtjzgt
   image: null
-- &id001
-  id: doi:10.1109/MCOM.004.2200627
+- id: doi:10.2118/216749-MS
   title: Visual Twin for Pipeline Leak Detection
+  authors:
+  - M. Hamilton
+  - W. Al-Ammari
+  - Y. AbuShanab
+  - A. Sleiti
+  - R. Hassan
+  - I. Hassan
+  - M.S. Kaan
+  - S. Rezaei-Gomari
+  - M. A. Rahman
+  publisher: Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC)
+  date: '2023-10-02'
+  link: https://doi.org/gtjzhj
+  image: null
+- id: doi:10.1109/MCOM.004.2200627
+  title: Immersive Media and the Metaverse
   authors:
   - Arianne T. Hinds
   - Igor D.D. Curcio
   - Matthew Hamilton
-  publisher: Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC)
-  date: '2023-10-02'
+  publisher: 'IEEE Communications Magazine ( Volume: 61, Issue: 9, September 2023)'
+  date: '2023-09-01'
   link: https://doi.org/gtjzf7
   image: null
-- *id001
 - id: doi:10.1097/HP.0000000000001705
   title: 'Radiation exposure from the patient perspective: an argument for the inclusion
     of dose history'
