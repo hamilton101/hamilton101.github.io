@@ -1,5 +1,14 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1097/HP.0000000000001784
+  title: Response to Galiano
+  authors:
+  - Matthew Hamilton
+  - Edward Kendall
+  publisher: Health Physics 126(3):p 164
+  date: '2024-03-01'
+  link: https://doi.org/gtj3k5
+  image: null
 - id: doi:10.1016/j.psep.2024.01.007
   title: Performance analysis of various machine learning algorithms for CO2 leak
     prediction and characterization in geo-sequestration injection wells
