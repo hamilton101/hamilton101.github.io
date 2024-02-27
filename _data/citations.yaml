@@ -1,12 +1,20 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: url:https://doi.org/10.1016/j.psep.2024.01.007
+  title: Performance analysis of various machine learning algorithms for CO2 leak
+    prediction and characterization in geo-sequestration injection wells
+  authors: []
+  publisher: Process Safety and Environmental Protection
+  date: '2023-10-01'
+  link: https://doi.org/10.1016/j.psep.2024.01.007
+  image: null
 - id: doi:10.1097/HP.0000000000001732
   title: Response to McCollough et al.
   authors:
   - Matthew Hamilton
   - Edward Kendall
   publisher: Health Physics 125(5):p 376
-  date: '2023-09-01'
+  date: '2023-10-01'
   link: https://doi.org/gtjzgt
   image: null
 - &id001
