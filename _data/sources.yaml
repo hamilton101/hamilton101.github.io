@@ -1,3 +1,14 @@
+- id: doi:10.1097/HP.0000000000001732
+  image: 
+  date: '2023-09-1'
+  title: 'Response to McCollough et al.'
+  publisher: 'Health Physics 125(5):p 376'
+
+- id: doi:10.1109/MCOM.004.2200627
+  image: 
+  date: '2023-10-2'
+  title: 'Visual Twin for Pipeline Leak Detection'
+  publisher: 'Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC)'
 
 - id: doi:10.1109/MCOM.004.2200627
   image: 
