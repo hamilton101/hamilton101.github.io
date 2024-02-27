@@ -1,5 +1,5 @@
 
-- id: url:https://doi.org/10.1016/j.psep.2024.01.007
+- id: doi:10.1016/j.psep.2024.01.007
   image: 
   date: '2023-10-1'
   title: 'Performance analysis of various machine learning algorithms for CO2 leak prediction and characterization in geo-sequestration injection wells'
@@ -12,7 +12,7 @@
   title: 'Response to McCollough et al.'
   publisher: 'Health Physics 125(5):p 376'
 
-- id: doi:10.1109/MCOM.004.2200627
+- id: doi:10.2118/216749-MS
   image: 
   date: '2023-10-2'
   title: 'Visual Twin for Pipeline Leak Detection'
