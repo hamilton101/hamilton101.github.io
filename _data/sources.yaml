@@ -2,7 +2,7 @@
   image: 
   date: '2024-03-1'
   title: 'Response to Galiano'
-  publisher: 'Health Physics 126(3):p 164'
+  publisher: 'Health Physics'
 
 
 
@@ -17,7 +17,7 @@
   image: 
   date: '2023-10-1'
   title: 'Response to McCollough et al.'
-  publisher: 'Health Physics 125(5):p 376'
+  publisher: 'Health Physics'
 
 - id: doi:10.2118/216749-MS
   image: 
@@ -36,7 +36,7 @@
   image: 
   date: '2023-09-1'
   title: 'Radiation exposure from the patient perspective: an argument for the inclusion of dose history'
-  publisher: 'Health Physics 125(3):p 198-201'
+  publisher: 'Health Physics'
 
 - id: url:https://ieeexplore.ieee.org/abstract/document/10019614
   image: https://www.vaclab.ca/images/foldpaper.PNG
