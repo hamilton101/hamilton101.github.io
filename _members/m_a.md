@@ -1,6 +1,6 @@
 ---
 name: m a
-image: https://drive.google.com/open?id=1snCTOoeyqsbYczxMB1wxYyDcfWyxx6MH
+image: https://drive.google.com/open?id=1aJhyWxU_LuNTJsASy_UKGW8TeYyEiJNL
 discord:m
 description: PhD Student
 role: 
@@ -9,4 +9,4 @@ links:
   home-page: 
 ---
 
-ma
+m
