@@ -1,6 +1,6 @@
 ---
 name: Matthew Test
-image: 'images/' Matthew
+image: images/ Matthew
 discord: matt
 description: GradSWEP
 role: 
