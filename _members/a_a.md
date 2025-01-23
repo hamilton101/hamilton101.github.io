@@ -1,7 +1,7 @@
 ---
 name: a a
 image: https://drive.google.com/open?id=1EdZxSgBq7b6i6vpeMaOgxWCngYKqh8Ul
-discord:a
+discord: a
 description: PhD Student
 role: 
 links:
