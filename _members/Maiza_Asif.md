@@ -1,6 +1,6 @@
 ---
 name: Maiza Asif
-image: images/ Maiza.jpg 
+image: images/Maiza.jpg 
 description: PhD Student
 role: msc
 links:
