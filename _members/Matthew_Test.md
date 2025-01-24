@@ -5,7 +5,7 @@ discord: matt
 description: GradSWEP
 role: 
 links:
-  email: test@matt.com
+  email: mhamilton@mun.ca
   home-page: 
 ---
 
