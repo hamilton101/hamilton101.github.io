@@ -7,6 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
+## Current Members
 
 {% include section.html %}
 
