@@ -36,6 +36,9 @@ nav:
 %}
 {:.center}
 
+## Alumni
+
+
 {% include section.html background="images/banner.jpg" dark=true%}
 
 We are a dynamic, interdisciplinary team focused on applying visual and analytic computing across a wide range of areas of study. Our projects produce
