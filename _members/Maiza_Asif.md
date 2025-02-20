@@ -1,11 +1,11 @@
 ---
 name: Maiza Asif
-image: images/Maiza.jpg 
-description: PhD Student
-role: msc
+image: images/MaizaAsif.jpg 
+description: MSc Thesis, Computer Science
+role: 
 links:
   email: maizaa@mun.ca
   home-page: web.com
 ---
 
-self
+a
