@@ -37,7 +37,6 @@ nav:
 %}
 {:.center}
 
-## Alumni
 
 
 {% include section.html background="images/banner.jpg" dark=true%}
