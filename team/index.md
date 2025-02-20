@@ -15,12 +15,6 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
   filters="role: phd"
 %}
 {%
@@ -33,11 +27,17 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: research assistant"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: others"
 %}
 {:.center}
 
-## Alumni Members
+ Alumni 
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
