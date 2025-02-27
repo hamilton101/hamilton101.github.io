@@ -38,7 +38,33 @@ nav:
 {:.center}
 
 ## Alumni 
+{% include section.html %}
 
+{%
+  include list.html
+  data="alumni"
+  component="portrait"
+  filters="role: phd"
+%}
+{%
+  include list.html
+  data="alumni"
+  component="portrait"
+  filters="role: msc"
+%}
+{%
+  include list.html
+  data="alumni"
+  component="portrait"
+  filters="role: research assistant"
+%}
+{%
+  include list.html
+  data="alumni"
+  component="portrait"
+  filters="role: others"
+%}
+{:.center}
 {% include section.html background="images/banner.jpg" dark=true%}
 
 We are a dynamic, interdisciplinary team focused on applying visual and analytic computing across a wide range of areas of study. Our projects produce
