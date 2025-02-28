@@ -1,8 +1,8 @@
 ---
 name: Matthew Test
 image: images/MatthewTest.jpg 
-description: GradSWEP, 
-role: others
+description: Honours Thesis, 
+role: msc
 links:
   email: mhamilton@mun.ca
   home-page: web.com
