@@ -1,5 +1,4 @@
 ---
-layout: alumni
 name: Matthew Hamilton
 image: images/MatthewHamilton.jpg 
 description: Undergraduate, Computer Science
