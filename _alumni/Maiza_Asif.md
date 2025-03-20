@@ -1,5 +1,4 @@
 ---
-
 name: Maiza Asif
 image: images/MaizaAsif.jpg 
 description: PhD Student, Computer Science
