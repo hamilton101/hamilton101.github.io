@@ -46,7 +46,7 @@ defaults:
       layout: member
   # markdown files in /_alumni
   - scope:
-      path: "_alumni"
+      type: "alumni"
     values:
       layout: alumni
       
