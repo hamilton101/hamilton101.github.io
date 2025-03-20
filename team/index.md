@@ -47,25 +47,25 @@ nav:
 
 {%
   include list.html
-  data="members"
+  data="alumni"
   component="portrait"
   filters="role: phd"
 %}
 {%
   include list.html
-  data="members"
+  data="alumni"
   component="portrait"
   filters="role: msc"
 %}
 {%
   include list.html
-  data="members"
+  data="alumni"
   component="portrait"
   filters="role: research assistant"
 %}
 {%
   include list.html
-  data="members"
+  data="alumni"
   component="portrait"
   filters="role: others"
 %}
