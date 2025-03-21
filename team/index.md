@@ -7,40 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-## Current Members
 
-{% include section.html %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: msc"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: research assistant"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: others"
-%}
-{:.center}
 
 ## Alumni 
 {% include section.html %}
