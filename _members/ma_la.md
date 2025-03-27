@@ -2,8 +2,10 @@
 
 name: ma la
 image: images/mala.jpg
-description: "Roles: Honours Thesis, "
-role: alumni
+description: "Current Role: Honours Thesis, 
+
+Previous Roles: PhD Student, Honours Thesis"
+role: msc
 links:
   email: maizaa@mun.ca
   home-page: web.com
