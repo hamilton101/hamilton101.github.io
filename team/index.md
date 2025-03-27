@@ -49,32 +49,9 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: alumni"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: msc"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: research assistant"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: others"
-%}
+
 {:.center}
 {% include section.html background="images/banner.jpg" dark=true%}
 
