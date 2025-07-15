@@ -82,3 +82,9 @@
 - id: doi:10.1007/11847250_21
   
 - id: doi:10.4230/DagSemProc.07281.3
+
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&citation_for_view=PWi6hlkAAAAJ:0KyAp5RtaNEC
+  image: 
+  date: '2024-01-01'
+  title: 'Single and multiphase flow leak detection in onshore/offshore pipelines and subsurface sequestration sites: An overview'
+  publisher: 'Journal of Loss Prevention in the Process Industries, 105327, 2024'
