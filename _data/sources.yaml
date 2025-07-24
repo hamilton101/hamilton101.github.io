@@ -100,3 +100,9 @@
   date: 'Year-01-01'
   title: 'Title'
   publisher: 'Journal'
+
+- id: url:Link
+  image: Image
+  date: 'Year-01-01'
+  title: 'Title'
+  publisher: 'Journal'
