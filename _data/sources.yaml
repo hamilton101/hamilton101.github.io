@@ -4,14 +4,11 @@
   title: 'Response to Galiano'
   publisher: 'Health Physics'
 
-
-
 - id: doi:10.1016/j.psep.2024.01.007
   image: 
   date: '2024-3-1'
   title: 'Performance analysis of various machine learning algorithms for CO2 leak prediction and characterization in geo-sequestration injection wells'
   publisher: 'Process Safety and Environmental Protection'
-
 
 - id: doi:10.1097/HP.0000000000001732
   image: 
@@ -31,7 +28,6 @@
   title: 'Immersive Media and the Metaverse'
   publisher: 'IEEE Communications Magazine ( Volume: 61, Issue: 9, September 2023)'
 
-
 - id: doi:10.1097/HP.0000000000001705
   image: 
   date: '2023-09-1'
@@ -44,20 +40,18 @@
   title: 'On Requirements for Field of Light Displays to Pass the Visual Turing Test'
   publisher: '2022 IEEE International Symposium on Multimedia (ISM)'
 
-
 - id: url:https://www.cs.mun.ca/~mhamilton/papers/Hamilton.pdf
   image: https://www.vaclab.ca/images/foldpaper.PNG
   date: '2021-10-24'
   title: 'Visualization Using Field of Light Displays: Opportunities and New Questions'
   publisher: 'VisXVision: Workshop on Novel Directions in Vision Science and Visualization Research at IEEE Visualization 2021 Conference.'
-  
+
 - id: url:https://www.cs.mun.ca/~mhamilton/papers/nwells-hamilton-Necec2021.pdf
   image: https://www.vaclab.ca/images/wellspaper.png
   date: '2021-11-18'
   title: Towards Immersive Cinematic Video for Immersive Displays
   publisher: The 30th Newfoundland Electrical and Computer Engineering Conference (NECEC), St. John's, Canada.
-  
-   
+
 - id: url:https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf
   date: 2018-11-1
   title: 'Holographic Displays: Emerging Technologies and Use Cases in Defence Applications'
@@ -71,20 +65,13 @@
 - id: doi:10.4043/25525-MS
   publisher: OTC Arctic Technology Conference, Copenhagen, Denmark, March 2015.
   image: https://www.vaclab.ca/images/vasepaper.PNG
-  
-  
+
 - id: doi:10.1002/sdtp.12268
-  image: https://www.vaclab.ca/images/simpaper.PNG  
-  
+  image: https://www.vaclab.ca/images/simpaper.PNG
+
 - id: doi:10.1529/biophysj.107.116053
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0006349508703783-gr2.jpg
-  
-- id: doi:10.1007/11847250_21
-  
-- id: doi:10.4230/DagSemProc.07281.3
 
-- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&citation_for_view=PWi6hlkAAAAJ:0KyAp5RtaNEC
-  image: https://www.vaclab.ca/images/single_and_multiphase_flow_leak_detection_in_onsho.jpeg
-  date: '2024-01-01'
-  title: 'Single and multiphase flow leak detection in onshore/offshore pipelines and subsurface sequestration sites: An overview'
-  publisher: 'Journal of Loss Prevention in the Process Industries 90, 105327, 2024'
+- id: doi:10.1007/11847250_21
+
+- id: doi:10.4230/DagSemProc.07281.3
