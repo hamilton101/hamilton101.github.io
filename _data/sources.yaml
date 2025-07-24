@@ -88,3 +88,9 @@
   date: '2024-01-01'
   title: 'Single and multiphase flow leak detection in onshore/offshore pipelines and subsurface sequestration sites: An overview'
   publisher: 'Journal of Loss Prevention in the Process Industries, 105327, 2024'
+
+- id: url:Link
+  image: Image
+  date: 'Year-01-01'
+  title: 'Title'
+  publisher: 'Journal'
