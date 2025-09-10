@@ -6,8 +6,8 @@ description: "Current Role: Lab Director, Computer Science
 "
 role: others
 links:
-  email: hamitonmj@gmail.com
+  email: hamiltonmj@gmail.com
   home-page: web.com
 ---
 
-I am a professor
+I am a professor.
