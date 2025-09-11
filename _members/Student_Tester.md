@@ -2,8 +2,10 @@
 
 name: Student Tester
 image: images/StudentTester.jpg
-description: "Roles: Undergraduate, CS"
-role: alumni
+description: "Current Role: MSc Thesis, CS
+
+Previous Roles: Undergraduate"
+role: msc
 links:
   email: hamiltonmj@gmail.com
   home-page: web.com
