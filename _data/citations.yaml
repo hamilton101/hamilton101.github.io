@@ -171,14 +171,6 @@
   publisher: OTC Arctic Technology Conference, Copenhagen, Denmark, March 2015.
   date: '2007-01-01'
   link: https://doi.org/gpj4qb
-- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&citation_for_view=PWi6hlkAAAAJ:0KyAp5RtaNEC
-  title: 'Single and multiphase flow leak detection in onshore/offshore pipelines
-    and subsurface sequestration sites: An overview'
-  authors: MA Rahman, A Barooah, MS Khan, R Hassan, I Hassan, AK Sleiti, ...
-  publisher: Journal of Loss Prevention in the Process Industries 90, 105327, 2024
-  date: '2024-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&citation_for_view=PWi6hlkAAAAJ:0KyAp5RtaNEC
-  image: https://www.vaclab.ca/images/single_and_multiphase_flow_leak_detection_in_onsho.jpeg
 - &id001
   id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
   title: Comprehensive analysis of leak impacts on liquid-gas multiphase flow using
