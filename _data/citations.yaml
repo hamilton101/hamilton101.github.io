@@ -179,17 +179,26 @@
   date: '2024-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&citation_for_view=PWi6hlkAAAAJ:0KyAp5RtaNEC
   image: https://www.vaclab.ca/images/single_and_multiphase_flow_leak_detection_in_onsho.jpeg
-- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
+- &id001
+  id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
   title: Comprehensive analysis of leak impacts on liquid-gas multiphase flow using
     statistical, wavelet transform, and machine learning approaches
   authors: H Ferroudji, MS Khan, A Barooah, WA Al-Ammari, I Hassan, R Hassan, ...
   publisher: Process Safety and Environmental Protection 194, 825-843, 2025
   date: '2025-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
-- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
-  title: Comprehensive analysis of leak impacts on liquid-gas multiphase flow using
-    statistical, wavelet transform, and machine learning approaches
-  authors: H Ferroudji, MS Khan, A Barooah, WA Al-Ammari, I Hassan, R Hassan, ...
-  publisher: Process Safety and Environmental Protection 194, 825-843, 2025
+- *id001
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:p__nRnzSRKYC
+  title: Newfoundland and Labrador Breast Screening (NLBS) Dataset (NL-Breast-Screen)
+  authors: E Kendall, P Hajishafiezahramini, M Hamilton, G Doyle, N Wadden, ...
+  publisher: Federated Research Data Repository/d?p?t f?d?r? de donn?es de recherche,
+    2025
   date: '2025-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:p__nRnzSRKYC
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:p__nRnzSRKYC
+  title: Newfoundland and Labrador Breast Screening (NLBS) Dataset (NL-Breast-Screen)
+  authors: E Kendall, P Hajishafiezahramini, M Hamilton, G Doyle, N Wadden, ...
+  publisher: Federated Research Data Repository/d?p?t f?d?r? de donn?es de recherche,
+    2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:p__nRnzSRKYC
