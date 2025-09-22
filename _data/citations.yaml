@@ -180,12 +180,3 @@
   date: '2025-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
 - *id001
-- &id002
-  id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:p__nRnzSRKYC
-  title: Newfoundland and Labrador Breast Screening (NLBS) Dataset (NL-Breast-Screen)
-  authors: E Kendall, P Hajishafiezahramini, M Hamilton, G Doyle, N Wadden, ...
-  publisher: Federated Research Data Repository/d?p?t f?d?r? de donn?es de recherche,
-    2025
-  date: '2025-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:p__nRnzSRKYC
-- *id002
