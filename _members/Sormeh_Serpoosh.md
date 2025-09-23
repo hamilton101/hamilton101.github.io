@@ -2,8 +2,10 @@
 
 name: Sormeh  Serpoosh
 image: images/Sormeh Serpoosh.jpg
-description: "Roles: PhD Student, Computer Science"
-role: alumni
+description: "Current Role: PhD Student, Computer Science
+
+Previous Roles: PhD Student"
+role: phd
 links:
   email: sormehserpoosh@gmail.com
   home-page: web.com
