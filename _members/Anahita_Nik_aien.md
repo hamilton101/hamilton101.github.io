@@ -1,7 +1,7 @@
 ---
 
 name: Anahita Nik aien
-image: images/AnahitaNikaien.jpg
+image: images/AnahitaNikaien.png
 description: "Roles: Honours Thesis, Department of Computer Sciene"
 role: alumni
 links:
