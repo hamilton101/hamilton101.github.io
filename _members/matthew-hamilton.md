@@ -1,11 +1,11 @@
 ---
 name: Matthew Hamilton
 image: images/Mattpic.jpg
-description: Assistant Professor, Computer Science
+description: Associate Professor, Computer Science
 role: pi
 links:
   email: mhamilton@mun.ca
-  home-page: http://matt-hamilton.ca
+  home-page: http://www.cs.mun.ca/~mhamilton
 ---
 
 Matthew Hamilton is the Principal Investigator for the VAC Lab. Matthew holds a PhD in Computing Science from the University of Alberta in Canada, 
