@@ -2,8 +2,10 @@
 
 name: Arnob Ghosh
 image: images/ArnobGhosh.jpg
-description: "Roles: Undergraduate, Computer Science"
-role: alumni
+description: "Current Role: Undergraduate, Computer Science
+
+Previous Roles: Undergraduate"
+role: others
 links:
   email: arnobg2002@gmail.com
   home-page: web.com
