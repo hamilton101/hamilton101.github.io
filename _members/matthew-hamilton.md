@@ -1,7 +1,7 @@
 ---
 name: Matthew Hamilton
 image: images/Mattpic.jpg
-description: Associate Professor, Computer Science
+description: Director of VAC Lab, Associate Professor, Computer Science
 role: pi
 links:
   email: mhamilton@mun.ca
