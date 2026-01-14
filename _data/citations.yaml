@@ -186,3 +186,17 @@
   publisher: Journal
   date: 1900-1-1
   link: Link
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:p__nRnzSRKYC
+  title: Newfoundland and Labrador Breast Screening (NLBS) Dataset (NL-Breast-Screen)
+  authors:
+  - E Kendall
+  - P Hajishafiezahramini
+  - M Hamilton
+  - G Doyle
+  - N Wadden
+  - '...'
+  publisher: "Federated Research Data Repository/d\xE9p\xF4t f\xE9d\xE9r\xE9 de donn\xE9\
+    es de recherche, 2025"
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:p__nRnzSRKYC
+  image: https://raw.githubusercontent.com/hamilton101/hamilton101.github.io/main/images/banner.jpg
