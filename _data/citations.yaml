@@ -171,15 +171,13 @@
   publisher: OTC Arctic Technology Conference, Copenhagen, Denmark, March 2015.
   date: '2007-01-01'
   link: https://doi.org/gpj4qb
-- &id001
-  id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
   title: Comprehensive analysis of leak impacts on liquid-gas multiphase flow using
     statistical, wavelet transform, and machine learning approaches
   authors: H Ferroudji, MS Khan, A Barooah, WA Al-Ammari, I Hassan, R Hassan, ...
   publisher: Process Safety and Environmental Protection 194, 825-843, 2025
   date: '2025-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
-- *id001
 - id: url:Link
   title: Title
   authors: Authors
@@ -200,3 +198,80 @@
   date: '2025-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:p__nRnzSRKYC
   image: https://raw.githubusercontent.com/hamilton101/hamilton101.github.io/main/images/banner.jpg
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&citation_for_view=PWi6hlkAAAAJ:BUYA1_V_uYcC
+  title: Analysis of water-air multiphase flow through a pipeline with two leaks using
+    numerical and experimental methods
+  authors:
+  - H Ferroudji
+  - M Saad Khan
+  - A Barooah
+  - M Azizur Rahman
+  - I Hassan
+  - '...'
+  publisher: Journal of Dispersion Science and Technology 47 (1), 36-47, 2026
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&citation_for_view=PWi6hlkAAAAJ:BUYA1_V_uYcC
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=40&citation_for_view=PWi6hlkAAAAJ:gsN89kCJA0AC
+  title: Development of Machine Learning Models for Multiple Leak Detection in Offshore
+    Gas Pipelines under Single-and Multiphase Flow Conditions
+  authors:
+  - WA Al-Ammari
+  - AK Sleiti
+  - Y AbuShanab
+  - M Hamilton
+  - A Rashid Hasan
+  - '...'
+  publisher: Journal of Pipeline Systems Engineering and Practice 17 (1), 04025092,
+    2026
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=40&citation_for_view=PWi6hlkAAAAJ:gsN89kCJA0AC
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=40&citation_for_view=PWi6hlkAAAAJ:tuHXwOkdijsC
+  title: Prompt-Level Contrastive Learning for Context-Aware Multi-modal Image Representation
+    in Medical Diagnosis
+  authors:
+  - G Dai
+  - Z Tian
+  - C Xin
+  - D Dai
+  - C Wang
+  - Y Zhang
+  - H Chen
+  - M Hamilton
+  publisher: Pattern Recognition, 113027, 2026
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=40&citation_for_view=PWi6hlkAAAAJ:tuHXwOkdijsC
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=40&citation_for_view=PWi6hlkAAAAJ:MLfJN-KU85MC
+  title: Polarization-Aware CrossGate U-Net for Sea Ice Classification
+  authors:
+  - N Ahmadian
+  - M Hamilton
+  - W Huang
+  publisher: IEEE GEOSCIENCE AND REMOTE SENSING LETTERS 23, 2026
+  date: '2026-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=40&citation_for_view=PWi6hlkAAAAJ:MLfJN-KU85MC
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
+  title: Comprehensive analysis of leak impacts on liquid-gas multiphase flow using
+    statistical, wavelet transform, and machine learning approaches
+  authors:
+  - H Ferroudji
+  - MS Khan
+  - A Barooah
+  - WA Al-Ammari
+  - I Hassan
+  - R Hassan
+  - '...'
+  publisher: Process Safety and Environmental Protection 194, 825-843, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:vDijr-p_gm4C
+  title: Full field digital mammography dataset from a population screening program
+  authors:
+  - E Kendall
+  - P Hajishafiezahramini
+  - M Hamilton
+  - G Doyle
+  - N Wadden
+  - '...'
+  publisher: Scientific Data 12 (1), 1479, 2025
+  date: '2025-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:vDijr-p_gm4C
