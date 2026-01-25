@@ -628,3 +628,14 @@
   publisher: "International Workshop on Parameterized and Exact Computation, 227-238, 2006"
   date: "2006-01-01"
   link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&citation_for_view=PWi6hlkAAAAJ:d1gkVwhDpl0C"
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:qjMakFHDy7sC
+  title: "Prototyping Parallel Sequence Edit-Distance Algorithms in FPGA Hardware."
+  authors:
+  - "D Churchill"
+  - "P Gillard"
+  - "M Hamilton"
+  - "T Wareham"
+
+  publisher: "Proceedings of the Fourteenth Annual Newfoundland Electrical and Computer …, 2004"
+  date: "2004-01-01"
+  link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&cstart=20&citation_for_view=PWi6hlkAAAAJ:qjMakFHDy7sC"
