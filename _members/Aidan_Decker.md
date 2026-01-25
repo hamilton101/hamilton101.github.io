@@ -2,8 +2,10 @@
 
 name: Aidan Decker
 image: images/AidanDecker.jpg
-description: "Roles: MUCEP, Computer science "
-role: alumni
+description: "Current Role: MUCEP, Computer science 
+
+Previous Roles: MUCEP"
+role: others
 links:
   email: adanield@mun.com
   home-page: web.com
