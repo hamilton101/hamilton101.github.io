@@ -2,8 +2,10 @@
 
 name: ISSAH SULEIMAN
 image: images/ISSAHSULEIMAN.jpg
-description: "Roles: MSc Project, DATA SCIENCE"
-role: alumni
+description: "Current Role: MSc Project, DATA SCIENCE
+
+Previous Roles: MSc Project"
+role: msc
 links:
   email: insuleiman@mun.ca
   home-page: web.com
