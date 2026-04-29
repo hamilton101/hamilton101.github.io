@@ -1,5 +1,4 @@
 ---
-
 name: Madison Eagles
 image: images/MadisonEagles.jpg
 description: "Current Role: Engineering Co-Op, Computer Engineering"
