@@ -2,9 +2,7 @@
 
 name: Madison Eagles
 image: images/MadisonEagles.jpg
-description: "Current Role: Engineering Co-Op, Computer Engineering
-
-Previous Roles: Engineering Co-Op"
+description: "Current Role: Engineering Co-Op, Computer Engineering, Previous Roles: Engineering Co-Op"
 role: others
 links:
   email: mbfeagles@mun.ca
