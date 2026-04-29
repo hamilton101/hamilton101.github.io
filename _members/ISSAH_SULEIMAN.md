@@ -2,8 +2,10 @@
 
 name: ISSAH SULEIMAN
 image: images/ISSAHSULEIMAN.jpg
-description: "Roles: Postdoc, DATA SCIENCE"
-role: alumni
+description: "Current Role: Postdoc, DATA SCIENCE
+
+Previous Roles: MSc Project, Postdoc"
+role: others
 links:
   email: insuleiman@mun.ca
   home-page: web.com
