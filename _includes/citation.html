@@ -20,11 +20,21 @@
 <div class="citation" data-style="{{ include.style }}">
   {%- assign link = citation.link | default: "" -%}
   {%- assign image = citation.image | default: "" -%}
+  {%- assign publication_images = site.data.publication_images | default: emptyarray -%}
+  {%- if image == "" and citation.scholar_id -%}
+    {%- assign image_match = publication_images | where: "scholar_id", citation.scholar_id | first -%}
+    {%- assign image = image_match.image | default: "" -%}
+  {%- endif -%}
+  {%- if image == "" and citation.title -%}
+    {%- assign image_match = publication_images | where: "title", citation.title | first -%}
+    {%- assign image = image_match.image | default: "" -%}
+  {%- endif -%}
+  {%- assign image_src = image | default: placeholder -%}
   {%- if rich -%}
     <div class="citation_image">
       <a href="{{ link }}">
         <img
-          src="{{ image | relative_url }}"
+          src="{{ image_src | relative_url }}"
           onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
           data-tooltip="{{ id }}"
           loading="lazy"
@@ -52,9 +62,23 @@
 
     {%- assign publisher = citation.publisher | default: "" -%}
     {%- assign date = citation.date | default: "1900-01-01" -%}
-    <div class="citation_details">
-      {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
-    </div>
+    {%- assign citation_year = citation.year | default: "" -%}
+    {%- assign source = citation.source | default: "" -%}
+    {%- assign details = "" -%}
+    {%- if source == "google-scholar" -%}
+      {%- if publisher != "" -%}
+        {%- assign details = publisher -%}
+      {%- elsif citation_year != "" -%}
+        {%- assign details = citation_year -%}
+      {%- endif -%}
+    {%- else -%}
+      {%- capture details -%}{{ publisher }}&nbsp; &middot; &nbsp;{{ date | date: "%d %b %Y" }}{%- endcapture -%}
+    {%- endif -%}
+    {%- if details != "" -%}
+      <div class="citation_details">
+        {{ details }}
+      </div>
+    {%- endif -%}
 
     {%- if rich -%}
 

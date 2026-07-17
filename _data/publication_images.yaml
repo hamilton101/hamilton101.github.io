@@ -1,0 +1,442 @@
+# Paper-derived thumbnails for Google Scholar-synced publications.
+# Images are downloaded from official paper, patent, or PDF sources; missing entries use the site placeholder.
+- scholar_id: PWi6hlkAAAAJ:LI9QrySNdTsC
+  title: Generative morphological alignment of multi-view mammograms via spatially-conditioned diffusion
+  image: images/publications/LI9QrySNdTsC.jpg
+  source_url: https://ars.els-cdn.com/content/image/1-s2.0-S0952197626006251-gr1_lrg.jpg
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:VaXvl8Fpj5cC
+  title: Sea Ice Classification Enhancement Using Calibration-Focused Loss Functions
+  image: images/publications/VaXvl8Fpj5cC.jpg
+  source_url: https://pub.mdpi-res.com/remotesensing/remotesensing-18-00810/article_deploy/html/images/remotesensing-18-00810-g001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:k8Z6L05lTy4C
+  title: Analysis and nomograph development for a leaky pipeline carrying plug flow based on numerical modeling and experimental validation
+  image: images/publications/k8Z6L05lTy4C.jpg
+  source_url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-36759-w/MediaObjects/41598_2026_36759_Fig1_HTML.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:gsN89kCJA0AC
+  title: Development of Machine Learning Models for Multiple Leak Detection in Offshore Gas Pipelines under Single-and Multiphase Flow Conditions
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:tuHXwOkdijsC
+  title: Prompt-Level Contrastive Learning for Context-Aware Multi-modal Image Representation in Medical Diagnosis
+  image: images/publications/tuHXwOkdijsC.jpg
+  source_url: https://ars.els-cdn.com/content/image/1-s2.0-S0031320325016905-gr1_lrg.jpg
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:BUYA1_V_uYcC
+  title: Analysis of water-air multiphase flow through a pipeline with two leaks using numerical and experimental methods
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:vbGhcppDl1QC
+  title: 'Advancing offshore pipeline safety: Exploring non-invasive Electrical Resistance Tomography for upstream leak response detection Strategy'
+  image: images/publications/vbGhcppDl1QC.jpg
+  source_url: https://ars.els-cdn.com/content/image/1-s2.0-S0955598625002055-gr1_lrg.jpg
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:p__nRnzSRKYC
+  title: Newfoundland and Labrador Breast Screening (NLBS) Dataset (NL-Breast-Screen)
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:MLfJN-KU85MC
+  title: Polarization-Aware CrossGate U-Net for Sea Ice Classification
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:b1wdh0AR-JQC
+  title: Digital Twin for Pipeline Leak Monitoring
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:kuK5TVdYjLIC
+  title: Integrating advanced frequency-domain signal processing with machine learning for accurate leak detection in subsurface CO2 storage
+  image: images/publications/kuK5TVdYjLIC.jpg
+  source_url: https://ars.els-cdn.com/content/image/1-s2.0-S2949908925002626-gr1_lrg.jpg
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:TIZ-Mc8IlK0C
+  title: Development of digital/visual twin for real‐time leak detection in gas pipelines under multiphase flow conditions
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:vDijr-p_gm4C
+  title: Full field digital mammography dataset from a population screening program
+  image: images/publications/vDijr-p_gm4C.jpg
+  source_url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-025-05866-0/MediaObjects/41597_2025_5866_Fig1_HTML.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:KUbvn5osdkgC
+  title: Multi-Task Learning Network for Medical Image Analysis Guided by Lesion Regions and Spatial Relationships of Tissues
+  image: images/publications/KUbvn5osdkgC.jpg
+  source_url: https://ieeexplore.ieee.org/ielx8/76/11365019/11119710/graphical_abstract/tcsvt-gagraphic-3596803.jpg
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:ILKRHgRFtOwC
+  title: Performance Evaluation of Three Deep Learning Models for River ICE Segmentation From Aerial Images
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:L7CI7m0gUJcC
+  title: Adaptive Flight Planning Using Turbulence and Weather Forecasts
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:tYavs44e6CUC
+  title: A Unified Data Platform for Maritime Analytics and Predictive Modeling in Arctic Operations
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:g3aElNc5_aQC
+  title: AI-Based Adaptive Digital Twin Framework for Real-Time Leak Detection and Localization in Offshore Gas Pipelines
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:EYYDruWGBe4C
+  title: 'Advanced Emissions Profiling of Canadian Icebreaker Vessels: Bridging Calculations, Validating Empirical Data, and Exploring Decarbonization Strategies'
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:BwyfMAYsbu0C
+  title: Light field volume rendering method
+  image: images/publications/BwyfMAYsbu0C.jpg
+  source_url: https://patentimages.storage.googleapis.com/e5/e1/d9/a5f2000c903fe7/US20250191281A1-20250612-D00000.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:4MWp96NkSFoC
+  title: Layered scene decomposition codec with ray tracing rendering
+  image: images/publications/4MWp96NkSFoC.jpg
+  source_url: https://patentimages.storage.googleapis.com/00/03/71/afa140a3584021/US20250193360A1-20250612-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:ML0RJ9NH7IQC
+  title: Integration of Unsupervised and Supervised Machine Learning Models for Single/Multiple Leak Detection and Localization Using Minimal Sensor Data
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:nrtMV_XWKgEC
+  title: Light field volume rendering method
+  image: images/publications/nrtMV_XWKgEC.jpg
+  source_url: https://patentimages.storage.googleapis.com/73/d4/20/9b91612a9cdbfd/US12260495-20250325-D00000.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:t7zJ5fGR-2UC
+  title: Light field sampling method
+  image: images/publications/t7zJ5fGR-2UC.jpg
+  source_url: https://patentimages.storage.googleapis.com/6d/a2/35/194cf38ebb9f59/US12261989-20250325-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:AvfA0Oy_GE0C
+  title: Comprehensive analysis of leak impacts on liquid-gas multiphase flow using statistical, wavelet transform, and machine learning approaches
+  image: images/publications/AvfA0Oy_GE0C.jpg
+  source_url: https://ars.els-cdn.com/content/image/1-s2.0-S0957582024016161-gr1_lrg.jpg
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:lmc2jWPfTJgC
+  title: Development of a Mechanistic and Dimensional Analysis Model for Multiphase Flow Leak Detection in Pipeline
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:hMsQuOkrut0C
+  title: List of Technical Program Committee (TPC) Members
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:Z5m8FVwuT1cC
+  title: 'Advancing Offshore Pipeline Safety: Exploring Non-Invasive Electrical Resistance Tomography for Rapid Upstream Leak Response Detection Strategy'
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:URolC5Kub84C
+  title: Ship data clustering for improved fuel efficiency optimization decision support systems
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:0KyAp5RtaNEC
+  title: 'Single and multiphase flow leak detection in onshore/offshore pipelines and subsurface sequestration sites: An overview'
+  image: images/publications/0KyAp5RtaNEC.jpg
+  source_url: https://ars.els-cdn.com/content/image/1-s2.0-S0950423024000858-gr1_lrg.jpg
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:uc_IGeMz5qoC
+  title: Development of Advanced Machine Learning Models for Multiple Leak Detection in Offshore Gas Pipelines Under Single-and Multiphase Flow Conditions
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:EkHepimYqZsC
+  title: Investigation of multiphase flow leak detection in pipeline using time series analysis technique
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:zLWjf1WUPmwC
+  title: Numerical Modeling Of Water-Air Multiphase Flow Within A Pipeline In The Presence Of Double Leaks
+  source_url: https://avestia.com/FFHMT2024_Proceedings/files/paper/FFHMT_036.pdf
+  source_type: paper-pdf-first-page
+  status: found
+  image: images/publications/zLWjf1WUPmwC.jpg
+- scholar_id: PWi6hlkAAAAJ:ipzZ9siozwsC
+  title: Towards Passing the Visual Turing Test with Field of Light Displays
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:35r97b3x0nAC
+  title: Layered scene decomposition CODEC method
+  image: images/publications/35r97b3x0nAC.jpg
+  source_url: https://patentimages.storage.googleapis.com/5a/2c/26/02af64dc5874e6/US11968372-20240423-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:yB1At4FlUx8C
+  title: Experimental Investigation of Early Leak Detection in Offshore Multiphase Flow Pipelines Using Non-Invasive Electrical Resistance Tomography
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:z_wVstp3MssC
+  title: Response to Galiano
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:VLnqNzywnoUC
+  title: Performance analysis of various machine learning algorithms for CO2 leak prediction and characterization in geo-sequestration injection wells
+  image: images/publications/VLnqNzywnoUC.jpg
+  source_url: https://ars.els-cdn.com/content/image/1-s2.0-S0957582024000090-gr1_lrg.jpg
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:9Nmd_mFXekcC
+  title: Development of a Mechanistic and Data-Driven Model for Multiphase Flow Leak Detection in Pipeline
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:XD-gHx7UXLsC
+  title: 'Enhancing Safety in Geological Carbon Sequestration: Supervised Machine Learning for Early Detection and Mitigation of CO 2 Leakage in Injection Wells'
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:_Re3VWB3Y0AC
+  title: Layered scene decomposition codec with view independent rasterization
+  image: images/publications/_Re3VWB3Y0AC.jpg
+  source_url: https://patentimages.storage.googleapis.com/a6/c8/24/b9650bd0d31daf/US11876950-20240116-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:ZfRJV9d4-WMC
+  title: Layered scene decomposition CODEC with transparency
+  image: images/publications/ZfRJV9d4-WMC.jpg
+  source_url: https://patentimages.storage.googleapis.com/5b/15/8e/ea82652125ad8f/US11876949-20240116-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:2KloaMYe4IUC
+  title: Light field volume rendering system and methods
+  image: images/publications/2KloaMYe4IUC.jpg
+  source_url: https://patentimages.storage.googleapis.com/a6/e3/d9/e841629005b37e/US11869138-20240109-D00000.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:epqYDVWIO7EC
+  title: Numerical and experimental modeling of two leaks behavior for water-air multiphase flow through a pipeline
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:tKAzc9rXhukC
+  title: Layered scene decomposition codec with volume rendering
+  image: images/publications/tKAzc9rXhukC.jpg
+  source_url: https://patentimages.storage.googleapis.com/47/e3/65/72fb2176e080c8/US11818327-20231114-D00000.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:fEOibwPWpKIC
+  title: Response to McCollough et al.
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:uJ-U7cs_P_0C
+  title: Immersive media and the metaverse
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:-_dYPAW6P2MC
+  title: Visual Twin for Pipeline Leak Detection
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:evX43VCCuoAC
+  title: 'Radiation exposure from the patient perspective: an argument for the inclusion of dose history'
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:NJ774b8OgUMC
+  title: Layered scene decomposition CODEC with layered depth imaging
+  image: images/publications/NJ774b8OgUMC.jpg
+  source_url: https://patentimages.storage.googleapis.com/6c/73/c5/b51b9687c3d8e9/US11743443-20230829-D00000.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:uLbwQdceFCQC
+  title: Layered scene decomposition codec system and methods
+  image: images/publications/uLbwQdceFCQC.jpg
+  source_url: https://patentimages.storage.googleapis.com/81/23/1e/89d629426c083b/US11611755-20230321-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:Fu2w8maKXqMC
+  title: Light field volume rendering system and methods
+  image: images/publications/Fu2w8maKXqMC.jpg
+  source_url: https://patentimages.storage.googleapis.com/49/79/86/eff8f1542cd7e3/US11562530-20230124-D00000.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:tzM49s52ZIMC
+  title: On Requirements for Field of Light Displays to Pass the Visual Turing Test
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:UHK10RUVsp4C
+  title: Layered scene decomposition CODEC with view independent rasterization
+  image: images/publications/UHK10RUVsp4C.jpg
+  source_url: https://patentimages.storage.googleapis.com/b5/54/38/2f53465eaa4af9/US11457197-20220927-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:W5xh706n7nkC
+  title: Directional pixel array for multiple view display
+  image: images/publications/W5xh706n7nkC.jpg
+  source_url: https://patentimages.storage.googleapis.com/f9/eb/b5/52b360351fac97/US11451763-20220920-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:dQ2og3OwTAUC
+  title: Layered scene decomposition CODEC with transparency
+  image: images/publications/dQ2og3OwTAUC.jpg
+  source_url: https://patentimages.storage.googleapis.com/54/7c/65/eef02f6303cab7/US11363249-20220614-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:JQOojiI6XY0C
+  title: Layered scene decomposition CODEC with asymptotic resolution
+  image: images/publications/JQOojiI6XY0C.jpg
+  source_url: https://patentimages.storage.googleapis.com/f2/6f/f3/e3e4efaf780119/US11330244-20220510-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:hkOj_22Ku90C
+  title: Layered scene decomposition CODEC with layered depth imaging
+  image: images/publications/hkOj_22Ku90C.jpg
+  source_url: https://patentimages.storage.googleapis.com/79/03/ad/582e20314e3fca/US11252392-20220215-D00000.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:_Ybze24A_UAC
+  title: Layered scene decomposition codec with higher order lighting
+  image: images/publications/_Ybze24A_UAC.jpg
+  source_url: https://patentimages.storage.googleapis.com/23/ff/23/92818c3f5c1a87/US20210203903A1-20210701-D00002.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:N5tVd3kTz84C
+  title: Directional pixel array for multiple view display
+  image: images/publications/N5tVd3kTz84C.jpg
+  source_url: https://patentimages.storage.googleapis.com/1a/5a/8a/36a036a1e6d96b/US11025895-20210601-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:1yQoGdGgb4wC
+  title: Layered scene decomposition CODEC with higher order lighting
+  image: images/publications/1yQoGdGgb4wC.jpg
+  source_url: https://patentimages.storage.googleapis.com/5a/6e/bf/ad325e5f2edba4/US10986326-20210420-D00000.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:VL0QpB8kHFEC
+  title: Layered scene decomposition CODEC system and methods
+  image: images/publications/VL0QpB8kHFEC.jpg
+  source_url: https://patentimages.storage.googleapis.com/4f/40/07/19dcb5f4411732/US10972737-20210406-D00000.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:ZuybSZzF8UAC
+  title: High-performance light field display simulator
+  image: images/publications/ZuybSZzF8UAC.jpg
+  source_url: https://patentimages.storage.googleapis.com/55/fa/51/58719500f3e8ca/US10924727-20210216-D00000.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:PR6Y55bgFSsC
+  title: Layered scene decomposition CODEC with asymptotic resolution
+  image: images/publications/PR6Y55bgFSsC.jpg
+  source_url: https://patentimages.storage.googleapis.com/12/0a/a6/0677364ba06428/US10911735-20210202-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:kzcrU_BdoSEC
+  title: 'Visualization Using Field of Light Displays: Opportunities and New Questions'
+  source_url: https://www.cs.mun.ca/~mhamilton/papers/Hamilton.pdf
+  source_type: paper-pdf-first-page
+  status: found
+  image: images/publications/kzcrU_BdoSEC.jpg
+- scholar_id: PWi6hlkAAAAJ:5awf1xo2G04C
+  title: Directional pixel for multiple view display
+  image: images/publications/5awf1xo2G04C.jpg
+  source_url: https://patentimages.storage.googleapis.com/e4/51/bf/e41a38c42617b5/US10536688-20200114-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:SdhP9T11ey4C
+  title: Layered scene decomposition CODEC system and methods
+  image: images/publications/SdhP9T11ey4C.jpg
+  source_url: https://patentimages.storage.googleapis.com/cd/01/48/c350f36a70dfa3/US10432944-20191001-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:dTyEYWd-f8wC
+  title: Directional pixel for multiple view display
+  image: images/publications/dTyEYWd-f8wC.jpg
+  source_url: https://patentimages.storage.googleapis.com/64/52/07/e996120728bb95/US10244230-20190326-D00001.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:9vf0nzSNQJEC
+  title: 'Holographic Displays: Emerging Technologies and Use Cases in Defence Applications'
+  source_url: https://publications.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf
+  source_type: paper-pdf-first-page
+  status: found
+  image: images/publications/9vf0nzSNQJEC.jpg
+- scholar_id: PWi6hlkAAAAJ:JoZmwDi-zQgC
+  title: Light Field Display Simulator for Experience and Quality Evaluation
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:W7OEmFMy1HYC
+  title: Integrated Design and Analysis for Virtual Arctic Simulation Environment
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:zYLM7Y9cAGgC
+  title: Virtual Arctic Simulation Environment
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:IjCSPb-OGe4C
+  title: Real-Time Time-Warped Multiscale Signal Processing for Scientific Visualization
+  source_url: https://search.proquest.com/openview/c61b8387693a8bcc4a2613117bb9b22d/1.pdf?pq-origsite=gscholar&cbl=18750
+  source_type: paper-pdf-first-page
+  status: missing
+  reason: official PDF thumbnail failed
+- scholar_id: PWi6hlkAAAAJ:u5HHmVD_uO8C
+  title: Coarse-grained molecular simulation of diffusion and reaction kinetics in a crowded virtual cytoplasm
+  image: images/publications/u5HHmVD_uO8C.jpg
+  source_url: https://ars.els-cdn.com/content/image/1-s2.0-S0006349508703783-gr2.jpg
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:2osOgNQ5qMEC
+  title: Three Dimensional Cache-Coherency for Multicore Volume Rendering
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:u-x6o8ySG0sC
+  title: Approximating solution structure
+  image: images/publications/u-x6o8ySG0sC.jpg
+  source_url: https://drops.dagstuhl.de/storage/16dagstuhl-seminar-proceedings/dsp-vol07281/thumbnails/DagSemProc.07281.3/DagSemProc.07281.3.png
+  source_type: paper-image
+  status: found
+- scholar_id: PWi6hlkAAAAJ:d1gkVwhDpl0C
+  title: The parameterized complexity of enumerating frequent itemsets
+  source_url: https://link.springer.com/content/pdf/10.1007/11847250_21.pdf
+  source_type: paper-pdf-first-page
+  status: missing
+  reason: official PDF thumbnail failed
+- scholar_id: PWi6hlkAAAAJ:qjMakFHDy7sC
+  title: Prototyping Parallel Sequence Edit-Distance Algorithms in FPGA Hardware.
+  source_type: unavailable
+  status: missing
+  reason: no accessible official paper image/PDF found yet
+- scholar_id: PWi6hlkAAAAJ:9yKSN-GCB0IC
+  title: A System for Real-time Parallel Scientific Computation and Visualization using the IBM Blue Gene/L Supercomputer
+  source_url: https://davechurchill.ca/publications/pdf/necec05.pdf
+  source_type: paper-pdf-first-page
+  status: found
+  image: images/publications/9yKSN-GCB0IC.jpg

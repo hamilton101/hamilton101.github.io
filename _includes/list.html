@@ -26,13 +26,18 @@
 
 {%- assign years = data | group_by_exp: "d", "d.date | date: '%Y'" | sort: "name" | reverse -%}
 
-{%- for year in years -%}
+{%- for year_group in years -%}
 
-{%- assign items = year.items -%}
+{%- assign items = year_group.items -%}
+{%- assign ordered_items = items | where_exp: "d", "d.scholar_order" -%}
+{%- if ordered_items.size > 0 -%}
+  {%- assign items = items | sort: "scholar_order" -%}
+{%- elsif years.size > 1 -%}
+  {%- assign items = items | sort: "date" | reverse -%}
+{%- endif -%}
 
 {%- if years.size > 1 -%}
-  <h3 id="{{ year.name }}">{{ year.name }}</h3>
-  {%- assign items = items | sort: "date" | reverse -%}
+  <h3 id="{{ year_group.name }}">{{ year_group.name }}</h3>
 {%- endif -%}
 
 {%- for d in items -%}
