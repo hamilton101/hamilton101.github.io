@@ -2,6 +2,13 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.bundle/
+.bundle-home/
+.cmd-test.log
+.dotnet-test.log
+.jekyll-preview*.log
+.python-preview*.log
+.start-process-test.log
 vendor
 debug.log
 __pycache__/

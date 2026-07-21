@@ -130,16 +130,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Lab Partners
 
-{:.center} 
-
-<a href="http://https://nrc.canada.ca"> <img src="images/nrclogo.png" width="200"> </a>
-<a href="https://www.med.mun.ca/medicine/home.aspx"> <img src="images/medlogo.jpg" width="200"> </a>
-<a href="https://www.vardec.ca/"> <img src="images/vardeclogo.jpg" width="200"> </a>
-<a href="https://https://bounceinnovation.ca/"> <img src="images/ouncelogo.jpeg" width="200"> </a>
-<a href="https://artinus.ai/"> <img src="images/artinuslogo.jpg" width="200"> </a>
-<br>
-<a href="https://spaces.facsci.ualberta.ca/ahci/news/media/"> AHCI Lab (University of Alberta, Computing Science) </a> <br>
-<a href="http://www.cs.mun.ca/~asoaresjunio/">  Mobility and Data Analytics Lab (Memorial University, Computer Science)</a><br>
-<a href="https://www.drazizrahman.com/"> Advance Multiphase Flow Assurance and Production Laboratory (AMFAPL) (Texas A&M University, Qatar) </a>
+{% include collaborators.md %}
 
 

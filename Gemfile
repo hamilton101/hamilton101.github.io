@@ -2,6 +2,9 @@ source "https://rubygems.org"
 
 # jekyll
 gem "jekyll"
+gem "base64"
+gem "bigdecimal"
+gem "csv"
 gem "webrick", "~> 1.7"
 
 # plugins
