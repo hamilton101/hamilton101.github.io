@@ -1,4 +1,14 @@
 # Synced from Google Scholar profile PWi6hlkAAAAJ sorted by publication date.
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:oNZyr7d5Mn4C
+  title: 'Dataset-Origin Signatures and Shortcut Learning in Screening Mammography AI: A Cross-Dataset Case Study'
+  authors: P Hajishafiezahramini, M Hamilton, O Meruvia-Pastor, E Kendall
+  publisher: 'arXiv preprint arXiv:2607.15416, 2026'
+  date: '2026-01-01'
+  year: '2026'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:oNZyr7d5Mn4C
+  source: google-scholar
+  scholar_id: PWi6hlkAAAAJ:oNZyr7d5Mn4C
+  scholar_order: 0
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:LI9QrySNdTsC
   title: Generative morphological alignment of multi-view mammograms via spatially-conditioned diffusion
   authors: Q Tang, P Ding, L Zhang, G Dai, M Hamilton, H An
