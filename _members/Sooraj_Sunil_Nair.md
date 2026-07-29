@@ -4,6 +4,7 @@ name: Sooraj Sunil Nair
 image: images/SoorajSunil Nair.jpg
 description: "Roles: Honours Thesis, Computer Science"
 role: alumni
+alumni_group: honours
 links:
   email: soorajnair2001@gmail.com
   home-page: web.com

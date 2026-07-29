@@ -4,6 +4,7 @@ name: Mirza Abdullah Al Nafiz
 image: images/Mirza Abdullah AlNafiz.jpg
 description: "Roles: MAS or MSc Project Student, Faculty of Engineering and Applied Science"
 role: alumni
+alumni_group: graduate
 links:
   email: maanafiz@mun.ca
   home-page: web.com

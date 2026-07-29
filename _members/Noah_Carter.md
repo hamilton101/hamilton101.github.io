@@ -2,9 +2,10 @@
 
 name: Noah Carter
 image: images/NoahCarter.jpg
-description: "Current Role: MUCEP, Computer Science
+description: "Previous Role: MUCEP, Computer Science
 "
-role: others
+role: alumni
+alumni_group: undergraduate
 links:
   email: ncdcarter@mun.ca
   home-page: web.com

@@ -2,9 +2,10 @@
 
 name: SAMARASIMHA REDDY CHITTAMURU
 image: images/SAMARASIMHA REDDYCHITTAMURU.jpg
-description: "Current Role: Research Associate , Computer Science
+description: "Previous Role: Research Associate, Computer Science
 "
-role: others
+role: alumni
+alumni_group: research
 links:
   email: srchittamuru@mun.ca
   home-page: web.com

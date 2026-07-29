@@ -4,6 +4,7 @@ name: Dhruv Sachani
 image: images/DhruvSachani.jpg
 description: "Roles: MUCEP, Computer Science"
 role: alumni
+alumni_group: undergraduate
 links:
   email: dhsachani@mun.ca
   home-page: web.com

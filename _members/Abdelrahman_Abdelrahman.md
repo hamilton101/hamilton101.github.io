@@ -4,6 +4,7 @@ name: Abdelrahman Abdelrahman
 image: images/AbdelrahmanAbdelrahman.jpg
 description: "Roles: Previous Alumni/MSc Project, Faculty of Science"
 role: alumni
+alumni_group: graduate
 links:
   email: abdelrahmana@mun.ca
   home-page: web.com

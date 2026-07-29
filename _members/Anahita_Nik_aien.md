@@ -4,6 +4,7 @@ name: Anahita Nik aien
 image: images/AnahitaNikaien.png
 description: "Roles: Honours Thesis, Department of Computer Sciene"
 role: alumni
+alumni_group: honours
 links:
   email: Anikaien@mun.ca
   home-page: web.com

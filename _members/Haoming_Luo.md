@@ -4,6 +4,7 @@ name: Haoming Luo
 image: images/HaomingLuo.jpg
 description: "Roles: Honours Thesis, Computer science "
 role: alumni
+alumni_group: honours
 links:
   email: hluo@mun.ca
   home-page: web.com

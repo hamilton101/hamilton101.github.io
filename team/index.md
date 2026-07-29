@@ -45,11 +45,37 @@ nav:
 
 ## Alumni 
 {% include section.html %}
+
+### Graduate Students
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: alumni"
+  filters="role: alumni, alumni_group: graduate"
+%}
+
+### Honours Thesis Students
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: alumni, alumni_group: honours"
+%}
+
+### Undergraduate Students
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: alumni, alumni_group: undergraduate"
+%}
+
+### Research Assistants & Interns
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: alumni, alumni_group: research"
 %}
 
 {:.center}

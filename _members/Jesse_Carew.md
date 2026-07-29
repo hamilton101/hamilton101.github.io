@@ -4,6 +4,7 @@ name: Jesse Carew
 image: images/JesseCarew.jpg
 description: "Roles: MUCEP, Physics and Physical Oceanography"
 role: alumni
+alumni_group: undergraduate
 links:
   email: jgcarew@mun.ca
   home-page: web.com

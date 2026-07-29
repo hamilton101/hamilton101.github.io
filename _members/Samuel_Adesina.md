@@ -4,6 +4,7 @@ name: Samuel Adesina
 image: images/SamuelAdesina.jpg
 description: "Roles: Alumni, Computer Science"
 role: alumni
+alumni_group: graduate
 links:
   email: adesinasamueloluwaseun@gmail.com
   home-page: web.com

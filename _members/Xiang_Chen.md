@@ -4,6 +4,7 @@ name: Xiang Chen
 image: images/XiangChen.jpg
 description: "Roles: Alumni, Computer Science"
 role: alumni
+alumni_group: research
 links:
   email: xiangc@mun.ca
   home-page: web.com

@@ -4,6 +4,7 @@ name: Arnob Ghosh
 image: images/ArnobGhosh.jpg
 description: "Roles: Undergraduate, Computer Science"
 role: alumni
+alumni_group: undergraduate
 links:
   email: arnobg2002@gmail.com
   home-page: web.com

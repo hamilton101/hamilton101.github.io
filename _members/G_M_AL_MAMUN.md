@@ -4,6 +4,7 @@ name: G M AL MAMUN
 image: images/G M ALMAMUN.jpg
 description: "Roles: MASc. Computer Engineering Project, Computer Engineering"
 role: alumni
+alumni_group: graduate
 links:
   email: gmamamun@mun.ca
   home-page: web.com

@@ -2,9 +2,10 @@
 
 name: Jacob Edison
 image: images/JacobEdison.jpg
-description: "Current Role: MUCEP, Computer Science
+description: "Previous Role: MUCEP, Computer Science
 "
-role: others
+role: alumni
+alumni_group: undergraduate
 links:
   email: jwedison@mun.ca
   home-page: web.com
