@@ -12,21 +12,35 @@ nav:
     <p>Explore open-source software created by the VAC Lab for visualization, imaging, artificial intelligence, and data analysis.</p>
   </div>
 
-  <div class="software-empty-state">
-    <div class="software-empty-state__icon" aria-hidden="true">
-      <i class="fas fa-laptop-code"></i>
+  <div class="software-work-heading">
+    <div>
+      <span class="software-section-label">Work in progress</span>
+      <h2>Current software initiatives</h2>
     </div>
-    <div class="software-empty-state__content">
-      <span class="software-empty-state__label">Software catalogue</span>
-      <h2>Our projects are being assembled</h2>
-      <p>This page will showcase reusable libraries, research code, and applications developed by lab members. In the meantime, visit our GitHub profile to browse currently available repositories.</p>
-      <a class="software-button" href="https://github.com/hamiltonmj">
-        <i class="fab fa-github" aria-hidden="true"></i>
-        Browse our GitHub
-        <i class="fas fa-arrow-right" aria-hidden="true"></i>
-      </a>
-    </div>
+    <p>These projects are under active development. More information, documentation, and source-code links will be added as they become available.</p>
   </div>
+
+  <div class="software-projects">
+    <article class="software-project-card">
+      <div class="software-project-card__icon" aria-hidden="true">
+        <i class="fas fa-cubes"></i>
+      </div>
+      <span class="software-status"><i class="fas fa-circle" aria-hidden="true"></i> In development</span>
+      <h3>Light Field Simulator</h3>
+      <p>A simulation tool supporting the lab's research and experimentation with light field imaging and display systems.</p>
+    </article>
+
+    <article class="software-project-card">
+      <div class="software-project-card__icon" aria-hidden="true">
+        <i class="fas fa-vr-cardboard"></i>
+      </div>
+      <span class="software-status"><i class="fas fa-circle" aria-hidden="true"></i> In development</span>
+      <h3>XR Platform for Flight Analysis</h3>
+      <p>An extended-reality platform for exploring, visualizing, and supporting the analysis of flight data.</p>
+    </article>
+  </div>
+
+  <p class="software-github-note">Looking for our public code? <a href="https://github.com/hamiltonmj"><i class="fab fa-github" aria-hidden="true"></i> Browse the lab's GitHub repositories</a>.</p>
 
   <div class="software-principles" aria-label="Our open-source software priorities">
     <div>
