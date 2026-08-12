@@ -5,46 +5,59 @@ nav:
   tooltip: Research datasets from the lab
 ---
 
-# <i class="fas fa-users"></i>Datasets
-## NL-Breast-Screening
+<div class="datasets-page">
+  <div class="datasets-intro">
+    <span class="datasets-eyebrow"><i class="fas fa-database" aria-hidden="true"></i> Open research data</span>
+    <h1>Datasets</h1>
+    <p>Explore datasets created by the VAC Lab to support reproducible research in medical imaging and artificial intelligence.</p>
+  </div>
 
-[Paper](https://www.nature.com/articles/s41597-025-05866-0)
+  <article class="dataset-card">
+    <div class="dataset-card__accent" aria-hidden="true"></div>
+    <div class="dataset-card__content">
+      <div class="dataset-card__heading">
+        <div class="dataset-card__icon" aria-hidden="true">
+          <i class="fas fa-x-ray"></i>
+        </div>
+        <div>
+          <span class="dataset-card__label">Medical imaging</span>
+          <h2>NL-Breast-Screening</h2>
+        </div>
+      </div>
 
-[Download Dataset](https://www.frdr-dfdr.ca/repo/dataset/c702145e-2e53-4421-b578-8bb53bbd3952)
+      <p class="dataset-card__description">
+        NL-Breast-Screening (NL-BREAST) is a de-identified full-field digital mammography dataset drawn from a Canadian provincial breast-screening program. It contains 5,997 exams with four standard views and validated outcomes, including identified false-positive cases, to support research on automated screening and breast-cancer detection.
+      </p>
 
+      <dl class="dataset-facts">
+        <div>
+          <dt>5,997</dt>
+          <dd>Mammography exams</dd>
+        </div>
+        <div>
+          <dt>4 views</dt>
+          <dd>Per screening exam</dd>
+        </div>
+        <div>
+          <dt>DICOM</dt>
+          <dd>Medical image format</dd>
+        </div>
+        <div>
+          <dt>CC BY 4.0</dt>
+          <dd>Open licence</dd>
+        </div>
+      </dl>
 
-<!--
-## Funding
-
-Our work is made possible by funding from several organizations.
-{:.center}
-
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
-
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
-%}
--->
+      <div class="dataset-card__actions">
+        <a class="dataset-button dataset-button--primary" href="https://www.frdr-dfdr.ca/repo/dataset/c702145e-2e53-4421-b578-8bb53bbd3952">
+          <i class="fas fa-download" aria-hidden="true"></i>
+          Access the dataset
+        </a>
+        <a class="dataset-button dataset-button--secondary" href="https://www.nature.com/articles/s41597-025-05866-0">
+          <i class="fas fa-file-alt" aria-hidden="true"></i>
+          Read the data paper
+        </a>
+      </div>
+    </div>
+  </article>
+</div>
