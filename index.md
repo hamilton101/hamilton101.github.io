@@ -42,8 +42,8 @@ We have a strong focus on development of holographic and light field displays an
 
 {%
   include link.html
-  link="research"
-  text="More details about our work"
+  link="projects"
+  text="Explore our projects"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -53,8 +53,8 @@ We have a strong focus on development of holographic and light field displays an
 {%
   include feature.html
   image="images/researchico.jpeg"
-  link="research"
-  title="Our Research"
+  link="projects"
+  title="Our Projects"
   text=text
 %}
 
