@@ -49,6 +49,11 @@ defaults:
       type: "alumnis"
     values:
       layout: alumni
+  # markdown files in /_projects
+  - scope:
+      type: "projects"
+    values:
+      layout: project
       
   # markdown files in /_posts
   - scope:
@@ -62,6 +67,9 @@ collections:
     output: true
   alumnis:
     output: true
+  projects:
+    output: true
+    permalink: /projects/:name/
    
 # sass settings
 sass:

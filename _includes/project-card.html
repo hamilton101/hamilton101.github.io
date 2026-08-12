@@ -1,0 +1,31 @@
+{%- assign project_link = include.link | default: include.url -%}
+
+{::nomarkdown}
+<span class="card" style="--width: 350px">
+  {%- if include.image -%}
+    <a href="{{ project_link | relative_url }}" class="card_image">
+      <img
+        src="{{ include.image | relative_url }}"
+        loading="lazy"
+        alt="{{ include.title | escape }}"
+      >
+    </a>
+  {%- endif -%}
+
+  <a href="{{ project_link | relative_url }}" class="card_title">
+    {{- include.title -}}
+  </a>
+
+  {%- if include.subtitle -%}
+    <span class="card_subtitle">{{ include.subtitle }}</span>
+  {%- endif -%}
+
+  {%- if include.description -%}
+    {{ include.description | markdownify }}
+  {%- endif -%}
+
+  {%- if include.tags -%}
+    {% include tags.html tags=include.tags %}
+  {%- endif -%}
+</span>
+{:/}

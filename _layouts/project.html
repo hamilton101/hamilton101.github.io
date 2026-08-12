@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{%- if page.image -%}
+  {%- include figure.html image=page.image caption=page.image_caption -%}
+{%- endif -%}
+
+{%- if page.description -%}
+  <p class="center"><strong>{{ page.description }}</strong></p>
+{%- endif -%}
+
+{%- if page.status or page.lead -%}
+  <p class="center">
+    {%- if page.status -%}<strong>Status:</strong> {{ page.status }}{%- endif -%}
+    {%- if page.status and page.lead -%}<br>{%- endif -%}
+    {%- if page.lead -%}<strong>Project lead:</strong> {{ page.lead }}{%- endif -%}
+  </p>
+{%- endif -%}
+
+{%- if page.tags -%}
+  <div class="center">{% include tags.html tags=page.tags %}</div>
+{%- endif -%}
+
+{{ content }}
+
+{%- if page.links -%}
+  <p class="center">
+    {%- for item in page.links -%}
+      {%- include link.html type="external" link=item.url text=item.text icon=item.icon style="button" -%}
+    {%- endfor -%}
+  </p>
+{%- endif -%}
+
+<p class="center">
+  {% include link.html type="link" link="/projects/" text="All projects" icon="fas fa-arrow-left" %}
+</p>
