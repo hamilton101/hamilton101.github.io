@@ -2,8 +2,9 @@
 title: Automation for Cancer Screening
 description: Automating the reading of mammography images using AI to reduce radiologist workload and improve cancer detection rates.
 subtitle: Lab project
-image: images/projects/morph-gen-figure-6.jpg
-image_caption: Mammogram view alignment and spatial correspondence from the Morph-Gen publication.
+image: images/projects/nl-breast-mammogram-example.jpg
+image_link: https://doi.org/10.20383/103.01526
+image_caption: "Example left craniocaudal mammogram from the Newfoundland and Labrador Breast Screening Dataset (NLBS), licensed under CC BY 4.0."
 tags:
   - Medical image analysis
   - Artificial intelligence
