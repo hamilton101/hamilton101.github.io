@@ -22,6 +22,17 @@
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:oNZyr7d5Mn4C
   scholar_order: 1
+- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:S16KYo8Pm5AC
+  title: Evaluating the Impact of Water on the Sea Ice Classification Metrics of the
+    AI4Arctic Dataset
+  authors: N Ahmadian, M Hamilton, W Huang
+  publisher: OCEANS 2026 Sanya, 1-4, 2026
+  date: '2026-01-01'
+  year: '2026'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:S16KYo8Pm5AC
+  source: google-scholar
+  scholar_id: PWi6hlkAAAAJ:S16KYo8Pm5AC
+  scholar_order: 2
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:-FonjvnnhkoC
   title: Sea Ice Classification Enhancement Using Brier Loss based Calibration
   authors: N Ahmadian, M Hamilton, W Huang
@@ -32,7 +43,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:-FonjvnnhkoC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:-FonjvnnhkoC
-  scholar_order: 2
+  scholar_order: 3
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:LI9QrySNdTsC
   title: Generative morphological alignment of multi-view mammograms via spatially-conditioned
     diffusion
@@ -43,7 +54,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:LI9QrySNdTsC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:LI9QrySNdTsC
-  scholar_order: 3
+  scholar_order: 4
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:VaXvl8Fpj5cC
   title: Sea Ice Classification Enhancement Using Calibration-Focused Loss Functions
   authors: N Ahmadian, M Hamilton, W Huang
@@ -53,7 +64,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:VaXvl8Fpj5cC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:VaXvl8Fpj5cC
-  scholar_order: 4
+  scholar_order: 5
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:k8Z6L05lTy4C
   title: Analysis and nomograph development for a leaky pipeline carrying plug flow
     based on numerical modeling and experimental validation
@@ -64,7 +75,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:k8Z6L05lTy4C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:k8Z6L05lTy4C
-  scholar_order: 5
+  scholar_order: 6
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:gsN89kCJA0AC
   title: Development of Machine Learning Models for Multiple Leak Detection in Offshore
     Gas Pipelines under Single-and Multiphase Flow Conditions
@@ -76,7 +87,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:gsN89kCJA0AC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:gsN89kCJA0AC
-  scholar_order: 6
+  scholar_order: 7
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:tuHXwOkdijsC
   title: Prompt-level contrastive learning for context-aware multi-modal image representation
     in medical diagnosis
@@ -87,7 +98,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:tuHXwOkdijsC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:tuHXwOkdijsC
-  scholar_order: 7
+  scholar_order: 8
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:BUYA1_V_uYcC
   title: Analysis of water-air multiphase flow through a pipeline with two leaks using
     numerical and experimental methods
@@ -98,7 +109,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:BUYA1_V_uYcC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:BUYA1_V_uYcC
-  scholar_order: 8
+  scholar_order: 9
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:vbGhcppDl1QC
   title: 'Advancing offshore pipeline safety: Exploring non-invasive Electrical Resistance
     Tomography for upstream leak response detection Strategy'
@@ -109,7 +120,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:vbGhcppDl1QC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:vbGhcppDl1QC
-  scholar_order: 9
+  scholar_order: 10
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:p__nRnzSRKYC
   title: Newfoundland and Labrador Breast Screening (NLBS) Dataset (NL-Breast-Screen)
   authors: E Kendall, P Hajishafiezahramini, M Hamilton, G Doyle, N Wadden, ...
@@ -120,7 +131,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:p__nRnzSRKYC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:p__nRnzSRKYC
-  scholar_order: 10
+  scholar_order: 11
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:MLfJN-KU85MC
   title: Polarization-aware crossGate U-Net for sea ice classification
   authors: N Ahmadian, M Hamilton, W Huang
@@ -130,7 +141,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:MLfJN-KU85MC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:MLfJN-KU85MC
-  scholar_order: 11
+  scholar_order: 12
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:b1wdh0AR-JQC
   title: Digital twin for pipeline leak monitoring
   authors: M Hamilton, H Ferroudji, M Colbourne, S Sheppard, A Barooah, AK Sleiti,
@@ -142,7 +153,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:b1wdh0AR-JQC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:b1wdh0AR-JQC
-  scholar_order: 12
+  scholar_order: 13
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:kuK5TVdYjLIC
   title: Integrating advanced frequency-domain signal processing with machine learning
     for accurate leak detection in subsurface CO2 storage
@@ -153,7 +164,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:kuK5TVdYjLIC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:kuK5TVdYjLIC
-  scholar_order: 13
+  scholar_order: 14
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:TIZ-Mc8IlK0C
   title: "Development of digital/visual twin for real\u2010time leak detection in\
     \ gas pipelines under multiphase flow conditions"
@@ -165,7 +176,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:TIZ-Mc8IlK0C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:TIZ-Mc8IlK0C
-  scholar_order: 14
+  scholar_order: 15
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:vDijr-p_gm4C
   title: Full field digital mammography dataset from a population screening program
   authors: E Kendall, P Hajishafiezahramini, M Hamilton, G Doyle, N Wadden, ...
@@ -175,7 +186,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:vDijr-p_gm4C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:vDijr-p_gm4C
-  scholar_order: 15
+  scholar_order: 16
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:KUbvn5osdkgC
   title: Multi-task learning network for medical image analysis guided by lesion regions
     and spatial relationships of tissues
@@ -186,7 +197,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:KUbvn5osdkgC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:KUbvn5osdkgC
-  scholar_order: 16
+  scholar_order: 17
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:ILKRHgRFtOwC
   title: Performance Evaluation of Three Deep Learning Models for River ICE Segmentation
     From Aerial Images
@@ -198,7 +209,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:ILKRHgRFtOwC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:ILKRHgRFtOwC
-  scholar_order: 17
+  scholar_order: 18
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:L7CI7m0gUJcC
   title: Adaptive Flight Planning Using Turbulence and Weather Forecasts
   authors: SS Nair, M Hamilton
@@ -209,7 +220,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:L7CI7m0gUJcC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:L7CI7m0gUJcC
-  scholar_order: 18
+  scholar_order: 19
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:tYavs44e6CUC
   title: A Unified Data Platform for Maritime Analytics and Predictive Modeling in
     Arctic Operations
@@ -220,7 +231,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:tYavs44e6CUC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:tYavs44e6CUC
-  scholar_order: 19
+  scholar_order: 20
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:g3aElNc5_aQC
   title: AI-Based Adaptive Digital Twin Framework for Real-Time Leak Detection and
     Localization in Offshore Gas Pipelines
@@ -232,7 +243,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:g3aElNc5_aQC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:g3aElNc5_aQC
-  scholar_order: 20
+  scholar_order: 21
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:EYYDruWGBe4C
   title: 'Advanced Emissions Profiling of Canadian Icebreaker Vessels: Bridging Calculations,
     Validating Empirical Data, and Exploring Decarbonization Strategies'
@@ -243,7 +254,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:EYYDruWGBe4C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:EYYDruWGBe4C
-  scholar_order: 21
+  scholar_order: 22
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:BwyfMAYsbu0C
   title: Light field volume rendering method
   authors: M Hamilton
@@ -253,7 +264,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:BwyfMAYsbu0C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:BwyfMAYsbu0C
-  scholar_order: 22
+  scholar_order: 23
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:4MWp96NkSFoC
   title: Layered scene decomposition codec with ray tracing rendering
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -263,7 +274,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:4MWp96NkSFoC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:4MWp96NkSFoC
-  scholar_order: 23
+  scholar_order: 24
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:ML0RJ9NH7IQC
   title: Integration of Unsupervised and Supervised Machine Learning Models for Single/Multiple
     Leak Detection and Localization Using Minimal Sensor Data
@@ -275,7 +286,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:ML0RJ9NH7IQC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:ML0RJ9NH7IQC
-  scholar_order: 24
+  scholar_order: 25
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:nrtMV_XWKgEC
   title: Light field volume rendering method
   authors: M Hamilton
@@ -285,7 +296,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:nrtMV_XWKgEC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:nrtMV_XWKgEC
-  scholar_order: 25
+  scholar_order: 26
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:t7zJ5fGR-2UC
   title: Light field sampling method
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -295,7 +306,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:t7zJ5fGR-2UC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:t7zJ5fGR-2UC
-  scholar_order: 26
+  scholar_order: 27
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
   title: Comprehensive analysis of leak impacts on liquid-gas multiphase flow using
     statistical, wavelet transform, and machine learning approaches
@@ -306,7 +317,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:AvfA0Oy_GE0C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:AvfA0Oy_GE0C
-  scholar_order: 27
+  scholar_order: 28
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:lmc2jWPfTJgC
   title: Development of a Mechanistic and Dimensional Analysis Model for Multiphase
     Flow Leak Detection in Pipeline
@@ -317,7 +328,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:lmc2jWPfTJgC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:lmc2jWPfTJgC
-  scholar_order: 28
+  scholar_order: 29
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:hMsQuOkrut0C
   title: List of Technical Program Committee (TPC) Members
   authors: AR Sebak, AA Kishk, A Komarov, BAF Esmail, CD Rouse, C Gilmore, ...
@@ -327,7 +338,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:hMsQuOkrut0C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:hMsQuOkrut0C
-  scholar_order: 29
+  scholar_order: 30
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:Z5m8FVwuT1cC
   title: 'Advancing Offshore Pipeline Safety: Exploring Non-Invasive Electrical Resistance
     Tomography for Rapid Upstream Leak Response Detection Strategy'
@@ -338,7 +349,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:Z5m8FVwuT1cC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:Z5m8FVwuT1cC
-  scholar_order: 30
+  scholar_order: 31
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:URolC5Kub84C
   title: Ship data clustering for improved fuel efficiency optimization decision support
     systems
@@ -349,7 +360,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:URolC5Kub84C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:URolC5Kub84C
-  scholar_order: 31
+  scholar_order: 32
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:0KyAp5RtaNEC
   title: 'Single and multiphase flow leak detection in onshore/offshore pipelines
     and subsurface sequestration sites: An overview'
@@ -360,7 +371,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:0KyAp5RtaNEC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:0KyAp5RtaNEC
-  scholar_order: 32
+  scholar_order: 33
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:uc_IGeMz5qoC
   title: Development of Advanced Machine Learning Models for Multiple Leak Detection
     in Offshore Gas Pipelines Under Single-and Multiphase Flow Conditions
@@ -371,7 +382,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:uc_IGeMz5qoC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:uc_IGeMz5qoC
-  scholar_order: 33
+  scholar_order: 34
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:EkHepimYqZsC
   title: Investigation of multiphase flow leak detection in pipeline using time series
     analysis technique
@@ -383,7 +394,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:EkHepimYqZsC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:EkHepimYqZsC
-  scholar_order: 34
+  scholar_order: 35
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:zLWjf1WUPmwC
   title: Numerical Modeling Of Water-Air Multiphase Flow Within A Pipeline In The
     Presence Of Double Leaks
@@ -395,7 +406,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:zLWjf1WUPmwC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:zLWjf1WUPmwC
-  scholar_order: 35
+  scholar_order: 36
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:ipzZ9siozwsC
   title: Towards Passing the Visual Turing Test with Field of Light Displays
   authors: N Wells, A Soares, M Hamilton
@@ -405,7 +416,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:ipzZ9siozwsC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:ipzZ9siozwsC
-  scholar_order: 36
+  scholar_order: 37
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:35r97b3x0nAC
   title: Layered scene decomposition CODEC method
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer
@@ -415,7 +426,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:35r97b3x0nAC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:35r97b3x0nAC
-  scholar_order: 37
+  scholar_order: 38
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:yB1At4FlUx8C
   title: Experimental investigation of early leak detection in offshore multiphase
     flow pipelines using non-invasive electrical resistance tomography
@@ -426,7 +437,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:yB1At4FlUx8C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:yB1At4FlUx8C
-  scholar_order: 38
+  scholar_order: 39
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:epqYDVWIO7EC
   title: Numerical and experimental modeling of two leaks behavior for water-air multiphase
     flow through a pipeline
@@ -437,7 +448,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:epqYDVWIO7EC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:epqYDVWIO7EC
-  scholar_order: 39
+  scholar_order: 40
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:z_wVstp3MssC
   title: Response to Galiano
   authors: M Hamilton, E Kendall
@@ -447,7 +458,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:z_wVstp3MssC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:z_wVstp3MssC
-  scholar_order: 40
+  scholar_order: 41
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:VLnqNzywnoUC
   title: Performance analysis of various machine learning algorithms for CO2 leak
     prediction and characterization in geo-sequestration injection wells
@@ -458,7 +469,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:VLnqNzywnoUC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:VLnqNzywnoUC
-  scholar_order: 41
+  scholar_order: 42
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:9Nmd_mFXekcC
   title: Development of a mechanistic and data-driven model for multiphase flow leak
     detection in pipeline
@@ -469,7 +480,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:9Nmd_mFXekcC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:9Nmd_mFXekcC
-  scholar_order: 42
+  scholar_order: 43
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:XD-gHx7UXLsC
   title: 'Enhancing Safety in Geological Carbon Sequestration: Supervised Machine
     Learning for Early Detection and Mitigation of CO 2 Leakage in Injection Wells'
@@ -480,7 +491,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:XD-gHx7UXLsC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:XD-gHx7UXLsC
-  scholar_order: 43
+  scholar_order: 44
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:fEOibwPWpKIC
   title: Response to McCollough et al.
   authors: M Hamilton, E Kendall
@@ -490,7 +501,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:fEOibwPWpKIC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:fEOibwPWpKIC
-  scholar_order: 44
+  scholar_order: 45
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:uJ-U7cs_P_0C
   title: Immersive media and the metaverse
   authors: AT Hinds, IDD Curcio, M Hamilton
@@ -500,7 +511,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:uJ-U7cs_P_0C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:uJ-U7cs_P_0C
-  scholar_order: 45
+  scholar_order: 46
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:-_dYPAW6P2MC
   title: Visual Twin for Pipeline Leak Detection
   authors: M Hamilton, W Al-Ammari, Y AbuShanab, A Sleiti, R Hassan, I Hassan, ...
@@ -511,7 +522,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:-_dYPAW6P2MC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:-_dYPAW6P2MC
-  scholar_order: 46
+  scholar_order: 47
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:evX43VCCuoAC
   title: 'Radiation exposure from the patient perspective: an argument for the inclusion
     of dose history'
@@ -522,7 +533,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:evX43VCCuoAC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:evX43VCCuoAC
-  scholar_order: 47
+  scholar_order: 48
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:2KloaMYe4IUC
   title: Light field volume rendering system and methods
   authors: M Hamilton
@@ -532,7 +543,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:2KloaMYe4IUC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:2KloaMYe4IUC
-  scholar_order: 48
+  scholar_order: 49
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:_Re3VWB3Y0AC
   title: Layered scene decomposition codec with view independent rasterization
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -542,7 +553,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:_Re3VWB3Y0AC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:_Re3VWB3Y0AC
-  scholar_order: 49
+  scholar_order: 50
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:tzM49s52ZIMC
   title: On Requirements for Field of Light Displays to Pass the Visual Turing Test
   authors: M Hamilton, N Wells, A Soares
@@ -552,7 +563,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:tzM49s52ZIMC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:tzM49s52ZIMC
-  scholar_order: 50
+  scholar_order: 51
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:UHK10RUVsp4C
   title: Layered scene decomposition CODEC with view independent rasterization
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -562,7 +573,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:UHK10RUVsp4C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:UHK10RUVsp4C
-  scholar_order: 51
+  scholar_order: 52
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:W5xh706n7nkC
   title: Directional pixel array for multiple view display
   authors: W Haas, J Campbell-Correa, M Hamilton, S Hill, J Peckham, C Rumbolt
@@ -572,7 +583,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:W5xh706n7nkC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:W5xh706n7nkC
-  scholar_order: 52
+  scholar_order: 53
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:ZfRJV9d4-WMC
   title: Layered Scene Decomposition CODEC with Transparency
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -582,7 +593,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:ZfRJV9d4-WMC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:ZfRJV9d4-WMC
-  scholar_order: 53
+  scholar_order: 54
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:tKAzc9rXhukC
   title: Layered scene decomposition codec with volume rendering
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -592,7 +603,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:tKAzc9rXhukC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:tKAzc9rXhukC
-  scholar_order: 54
+  scholar_order: 55
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:dQ2og3OwTAUC
   title: Layered scene decomposition CODEC with transparency
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -602,7 +613,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:dQ2og3OwTAUC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:dQ2og3OwTAUC
-  scholar_order: 55
+  scholar_order: 56
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:NJ774b8OgUMC
   title: Layered Scene Decomposition CODEC with Layered Depth Imaging
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -612,7 +623,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:NJ774b8OgUMC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:NJ774b8OgUMC
-  scholar_order: 56
+  scholar_order: 57
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:Fu2w8maKXqMC
   title: Light field volume rendering system and methods
   authors: M Hamilton
@@ -622,7 +633,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:Fu2w8maKXqMC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:Fu2w8maKXqMC
-  scholar_order: 57
+  scholar_order: 58
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:_Ybze24A_UAC
   title: Layered scene decomposition codec with higher order lighting
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -632,7 +643,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:_Ybze24A_UAC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:_Ybze24A_UAC
-  scholar_order: 58
+  scholar_order: 59
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:uLbwQdceFCQC
   title: Layered scene decomposition codec system and methods
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer
@@ -642,7 +653,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:uLbwQdceFCQC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:uLbwQdceFCQC
-  scholar_order: 59
+  scholar_order: 60
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:N5tVd3kTz84C
   title: Directional pixel array for multiple view display
   authors: W Haas, J Campbell-Correa, M Hamilton, S Hill, J Peckham, C Rumbolt
@@ -652,7 +663,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:N5tVd3kTz84C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:N5tVd3kTz84C
-  scholar_order: 60
+  scholar_order: 61
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:JQOojiI6XY0C
   title: Layered Scene Decomposition CODEC with Asymptotic Resolution
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -662,7 +673,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:JQOojiI6XY0C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:JQOojiI6XY0C
-  scholar_order: 61
+  scholar_order: 62
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:1yQoGdGgb4wC
   title: Layered scene decomposition CODEC with higher order lighting
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -672,7 +683,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:1yQoGdGgb4wC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:1yQoGdGgb4wC
-  scholar_order: 62
+  scholar_order: 63
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:VL0QpB8kHFEC
   title: Layered scene decomposition CODEC system and methods
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer
@@ -682,7 +693,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:VL0QpB8kHFEC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:VL0QpB8kHFEC
-  scholar_order: 63
+  scholar_order: 64
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:ZuybSZzF8UAC
   title: High-performance light field display simulator
   authors: M Hamilton, M Troke, C Rumbolt, R Lockyer, D Benoit, T Butyn
@@ -692,7 +703,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:ZuybSZzF8UAC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:ZuybSZzF8UAC
-  scholar_order: 64
+  scholar_order: 65
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:PR6Y55bgFSsC
   title: Layered scene decomposition CODEC with asymptotic resolution
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -702,7 +713,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:PR6Y55bgFSsC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:PR6Y55bgFSsC
-  scholar_order: 65
+  scholar_order: 66
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:kzcrU_BdoSEC
   title: 'Visualization Using Field of Light Displays: Opportunities and New Questions'
   authors: M Hamilton
@@ -712,7 +723,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:kzcrU_BdoSEC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:kzcrU_BdoSEC
-  scholar_order: 66
+  scholar_order: 67
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:hkOj_22Ku90C
   title: Layered Scene Decomposition CODEC with Layered Depth Imaging
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer, T Butyn
@@ -722,7 +733,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:hkOj_22Ku90C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:hkOj_22Ku90C
-  scholar_order: 67
+  scholar_order: 68
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:5awf1xo2G04C
   title: Directional pixel for multiple view display
   authors: W Haas, J Campbell-Correa, M Hamilton, S Hill, J Peckham, C Rumbolt
@@ -732,7 +743,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:5awf1xo2G04C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:5awf1xo2G04C
-  scholar_order: 68
+  scholar_order: 69
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:SdhP9T11ey4C
   title: Layered scene decomposition CODEC system and methods
   authors: M Hamilton, C Rumbolt, D Benoit, M Troke, R Lockyer
@@ -742,7 +753,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:SdhP9T11ey4C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:SdhP9T11ey4C
-  scholar_order: 69
+  scholar_order: 70
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:dTyEYWd-f8wC
   title: Directional pixel for multiple view display
   authors: W Haas, J Campbell-Correa, M Hamilton, S Hill, J Peckham, C Rumbolt
@@ -752,7 +763,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:dTyEYWd-f8wC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:dTyEYWd-f8wC
-  scholar_order: 70
+  scholar_order: 71
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:9vf0nzSNQJEC
   title: 'Holographic Displays: Emerging Technologies and Use Cases in Defence Applications'
   authors: M Hamilton, T Butyn, R Baker
@@ -762,7 +773,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:9vf0nzSNQJEC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:9vf0nzSNQJEC
-  scholar_order: 71
+  scholar_order: 72
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:JoZmwDi-zQgC
   title: Light Field Display Simulator for Experience and Quality Evaluation
   authors: M Hamilton, M., Rumbolt, C., Butyn, T., Benoit, D., Lockyer, R. and Troke
@@ -772,7 +783,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:JoZmwDi-zQgC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:JoZmwDi-zQgC
-  scholar_order: 72
+  scholar_order: 73
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:W7OEmFMy1HYC
   title: Integrated Design and Analysis for Virtual Arctic Simulation Environment
   authors: M Hamilton, A Maynard, M Jujuly, I Adeoti, A Rahman, M Adey
@@ -782,7 +793,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:W7OEmFMy1HYC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:W7OEmFMy1HYC
-  scholar_order: 73
+  scholar_order: 74
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:zYLM7Y9cAGgC
   title: Virtual Arctic Simulation Environment
   authors: M Hamilton, S Dodd
@@ -792,7 +803,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:zYLM7Y9cAGgC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:zYLM7Y9cAGgC
-  scholar_order: 74
+  scholar_order: 75
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:IjCSPb-OGe4C
   title: Real-Time Time-Warped Multiscale Signal Processing for Scientific Visualization
   authors: M Hamilton
@@ -802,7 +813,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:IjCSPb-OGe4C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:IjCSPb-OGe4C
-  scholar_order: 75
+  scholar_order: 76
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:u5HHmVD_uO8C
   title: Coarse-grained molecular simulation of diffusion and reaction kinetics in
     a crowded virtual cytoplasm
@@ -813,7 +824,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:u5HHmVD_uO8C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:u5HHmVD_uO8C
-  scholar_order: 76
+  scholar_order: 77
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:2osOgNQ5qMEC
   title: Three Dimensional Cache-Coherency for Multicore Volume Rendering
   authors: M Hamilton, L Zhan, A, Maynard, RP Bording
@@ -824,7 +835,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:2osOgNQ5qMEC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:2osOgNQ5qMEC
-  scholar_order: 77
+  scholar_order: 78
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:u-x6o8ySG0sC
   title: Approximating solution structure
   authors: "I van Rooij, M Hamilton, M M\xFCller, T Wareham"
@@ -834,7 +845,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:u-x6o8ySG0sC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:u-x6o8ySG0sC
-  scholar_order: 78
+  scholar_order: 79
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:d1gkVwhDpl0C
   title: The parameterized complexity of enumerating frequent itemsets
   authors: M Hamilton, R Chaytor, T Wareham
@@ -845,7 +856,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:d1gkVwhDpl0C
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:d1gkVwhDpl0C
-  scholar_order: 79
+  scholar_order: 80
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:qjMakFHDy7sC
   title: Prototyping Parallel Sequence Edit-Distance Algorithms in FPGA Hardware.
   authors: D Churchill, P Gillard, M Hamilton, T Wareham
@@ -856,7 +867,7 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:qjMakFHDy7sC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:qjMakFHDy7sC
-  scholar_order: 80
+  scholar_order: 81
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:9yKSN-GCB0IC
   title: A System for Real-time Parallel Scientific Computation and Visualization
     using the IBM Blue Gene/L Supercomputer
@@ -867,4 +878,4 @@
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:9yKSN-GCB0IC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:9yKSN-GCB0IC
-  scholar_order: 81
+  scholar_order: 82
