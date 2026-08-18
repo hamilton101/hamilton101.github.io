@@ -1,0 +1,16 @@
+# Publications and presentations that are not listed on Google Scholar.
+- id: url:https://www.highperformancegraphics.org/posters24/Wells%20-%20Real-Time%20Multi-Gigapixel%20Light%20Field%20Ray%20Traced%20Rendering%20with%20JPEG%20Compression.pdf
+  title: Real-Time Multi-Gigapixel Light Field Ray Traced Rendering with JPEG Compression
+  authors:
+    - Nicholas Wells
+    - Matthew Hamilton
+  publisher: High-Performance Graphics 2024 poster
+  date: '2024-07-26'
+  year: '2024'
+  link: https://www.highperformancegraphics.org/posters24/Wells%20-%20Real-Time%20Multi-Gigapixel%20Light%20Field%20Ray%20Traced%20Rendering%20with%20JPEG%20Compression.pdf
+  image: images/publications/hpg-2024-wells-poster.jpg
+  source: manual
+  tags:
+    - light fields
+    - ray tracing
+    - JPEG compression
