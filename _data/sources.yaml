@@ -861,14 +861,15 @@
   scholar_order: 85
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:Dip1O2bNi0gC
   title: Towards Immersive Cinematic Video for Immersive Displays
-  authors: N Wells, M Hamilton
-  publisher: ''
-  date: '1900-01-01'
-  year: ''
+  authors: Nicholas Wells, Matthew Hamilton
+  publisher: The 30th Newfoundland Electrical and Computer Engineering Conference (NECEC), St. John's, Canada
+  date: '2021-11-18'
+  year: '2021'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:Dip1O2bNi0gC
   source: google-scholar
   scholar_id: PWi6hlkAAAAJ:Dip1O2bNi0gC
   scholar_order: 86
+  manual_metadata: true
 - id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PWi6hlkAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PWi6hlkAAAAJ:9yKSN-GCB0IC
   title: A System for Real-time Parallel Scientific Computation and Visualization using the IBM Blue Gene/L Supercomputer
   authors: M Hamilton
