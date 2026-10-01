@@ -35,6 +35,8 @@ and data analytics.
 
 # Highlights
 
+{% include latest-news.html %}
+
 {% capture text %}
 
 Our research focuses on visual and analytic computing, including: data visualization, scientific computing, computer graphics, computational imaging and artificial intelligence. 

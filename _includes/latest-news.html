@@ -1,0 +1,17 @@
+{% assign latest_news = site.posts | first %}
+{% if latest_news %}
+<aside class="news-spotlight" aria-label="Latest lab news">
+  <div class="news-spotlight-brand">
+    <img src="{{ latest_news.image | default: 'images/MUN-Logo-RGB-large.jpg' | relative_url }}" alt="{{ latest_news.image_alt | default: 'Memorial University' | escape }}" loading="lazy" />
+  </div>
+  <div class="news-spotlight-copy">
+    <p class="news-eyebrow">Latest news · <time datetime="{{ latest_news.date | date: '%Y-%m-%d' }}">{{ latest_news.date | date: '%B %-d, %Y' }}</time></p>
+    <h2><a href="{{ latest_news.url | relative_url }}">{{ latest_news.title | escape }}</a></h2>
+    <p>{{ latest_news.description | default: latest_news.excerpt | strip_html | truncate: 240 }}</p>
+    <div class="news-spotlight-links">
+      <a href="{{ latest_news.url | relative_url }}">Read the story →</a>
+      <a href="{{ '/news/' | relative_url }}">All lab news</a>
+    </div>
+  </div>
+</aside>
+{% endif %}
