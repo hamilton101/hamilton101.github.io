@@ -1,15 +1,13 @@
 ---
 
-name: Mohammed Saad Shaikh
-image: images/Mohammed SaadShaikh.jpg
-description: "Previous Role: Undergraduate, Maths & Stat/ Computer Science
+name: Mohammed Saad  Shaikh
+image: images/Mohammed Saad Shaikh.jpg
+description: "Current Role: MUCEP, Data Science (Maths & Stat)
 "
-role: alumni
-alumni_group: undergraduate
+role: others
 links:
   email: msshaikh@mun.ca
   home-page: web.com
 ---
 
-I?m a 3rd-year Data Science student minoring in CS at MUN, with hands-on experience building and deploying end-to-end ML systems (Python, SQL, Linux/CI/CD) and I?m motivated to work on high-value projects that create real impact.
-Outside of school/work, I?m big on fitness lifting and getting more consistent with running (even with the St. John?s wind) Constantly working on eating healthy whilst having a sweet tooth :)
+I?m Saad Shaikh, a Data Science student at Memorial University and a Software Developer focused on AI/ML systems, MLOps, and turning messy research workflows into practical tools that actually help people make better decisions. I?ve worked across industry and research, rom enterprise AI and data engineering at Vale to building MLflow-based experiment intelligence at VACLab, and I?m the kind of person who gets genuinely obsessed with understanding how a system works end-to-end, then finding a smarter way to build it. Outside the technical side, I?m curious, energetic, very people-oriented, and always looking for ambitious problems where I can learn fast, contribute meaningfully, and build something that lasts beyond just one project.
